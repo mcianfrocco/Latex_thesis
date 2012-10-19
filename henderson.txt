@@ -1,0 +1,32 @@
+﻿   author = {Henderson, R. and Chen, S. and Chen, J. Z. and Grigorieff, N. and Passmore, L. A. and Ciccarelli, L. and Rubinstein, J. L. and Crowther, R. A. and Stewart, P. L. and Rosenthal, P. B.},
+   title = {Tilt-pair analysis of images from a range of different specimens in single-particle electron cryomicroscopy},
+   journal = {J Mol Biol},
+   volume = {413},
+   number = {5},
+   pages = {1028-46},
+   note = {Henderson, Richard
+Chen, Shaoxia
+Chen, James Z
+Grigorieff, Nikolaus
+Passmore, Lori A
+Ciccarelli, Luciano
+Rubinstein, John L
+Crowther, R Anthony
+Stewart, Phoebe L
+Rosenthal, Peter B
+England
+Journal of molecular biology
+J Mol Biol. 2011 Nov 11;413(5):1028-46. Epub 2011 Sep 12.},
+   abstract = {The comparison of a pair of electron microscope images recorded at different specimen tilt angles provides a powerful approach for evaluating the quality of images, image-processing procedures, or three-dimensional structures. Here, we analyze tilt-pair images recorded from a range of specimens with different symmetries and molecular masses and show how the analysis can produce valuable information not easily obtained otherwise. We show that the accuracy of orientation determination of individual single particles depends on molecular mass, as expected theoretically since the information in each particle image increases with molecular mass. The angular uncertainty is less than 1 degrees for particles of high molecular mass (~50 MDa), several degrees for particles in the range 1-5 MDa, and tens of degrees for particles below 1 MDa. Orientational uncertainty may be the major contributor to the effective temperature factor (B-factor) describing contrast loss and therefore the maximum resolution of a structure determination. We also made two unexpected observations. Single particles that are known to be flexible showed a wider spread in orientation accuracy, and the orientations of the largest particles examined changed by several degrees during typical low-dose exposures. Smaller particles presumably also reorient during the exposure; hence, specimen movement is a second major factor that limits resolution. Tilt pairs thus enable assessment of orientation accuracy, map quality, specimen motion, and conformational heterogeneity. A convincing tilt-pair parameter plot, where 60% of the particles show a single cluster around the expected tilt axis and tilt angle, provides confidence in a structure determined using electron cryomicroscopy.},
+   keywords = {Adenosine Triphosphatases/ ultrastructure
+Animals
+Cattle
+Cryoelectron Microscopy
+Image Processing, Computer-Assisted
+Rotavirus/chemistry
+Virion/ ultrastructure
+Yeasts/ ultrastructure
+beta-Galactosidase/ ultrastructure},
+   year = {2011}
+}
+

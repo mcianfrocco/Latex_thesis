@@ -1,0 +1,21 @@
+﻿   author = {Nagayama, K.},
+   title = {Another 60 years in electron microscopy: development of phase-plate electron microscopy and biological applications},
+   journal = {J Electron Microsc (Tokyo)},
+   volume = {60 Suppl 1},
+   pages = {S43-62},
+   note = {Nagayama, Kuniaki
+Research Support, Non-U.S. Gov't
+Review
+Japan
+Journal of electron microscopy
+J Electron Microsc (Tokyo). 2011;60 Suppl 1:S43-62.},
+   abstract = {It has been six decades since the concept of phase-plate electron microscopy was first reported by Boersch, but an experimental report on a phase plate with a theoretically rational performance has only recently been released by a group including the present author. Currently, many laboratories around the world are attempting to develop a wide range of phase plates to enhance the capabilities of transmission electron microscopy. They are reporting not only advantages of their own developments but also a fundamental problem inherent to electron beam devices, namely charging, i.e. the accumulation of electrostatic charge. In this report, we review the 60-year history of phase-plate development, with a particular focus on the fundamental issue of phase-plate charging. Next, we review biological applications of qualified phase plates, which have been successful in avoiding charging to some extent. Finally, we compare and discuss electron microscopic images, taken with or without phase plates, of biological targets such as proteins (GroEL and TRPV4), protein complexes (flagellar motor), viruses (T4 phage, epsilon-15 phage and herpes simplex virus), bacterial (cyanobacteria) and mammalian (PtK2) cells.},
+   keywords = {Cells/ultrastructure
+Flagella/ultrastructure
+Microscopy, Electron, Transmission/instrumentation/methods
+Proteins/ ultrastructure
+Static Electricity
+Viruses/ultrastructure},
+   year = {2011}
+}
+

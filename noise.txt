@@ -1,0 +1,24 @@
+﻿   author = {Stewart, A. and Grigorieff, N.},
+   title = {Noise bias in the refinement of structures derived from single particles},
+   journal = {Ultramicroscopy},
+   volume = {102},
+   number = {1},
+   pages = {67-84},
+   note = {Stewart, Alex
+Grigorieff, Nikolaus
+1 P01 GM-62580/GM/NIGMS NIH HHS/United States
+Comparative Study
+Research Support, U.S. Gov't, P.H.S.
+Netherlands
+Ultramicroscopy
+Ultramicroscopy. 2004 Dec;102(1):67-84.},
+   abstract = {One of the main goals in the determination of three-dimensional macromolecular structures from electron microscope images of individual molecules and complexes (single particles) is a sufficiently high spatial resolution, about 4 A, at which the interpretation with an atomic model becomes possible. To reach high resolution, an iterative refinement procedure using an expectation maximization algorithm is often used that leads to a more accurate alignment of the positional and orientational parameters for each particle. We show here the results of refinement algorithms that use a phase residual, a linear correlation coefficient, or a weighted correlation coefficient to align individual particles. The algorithms were applied to computer-generated data sets that contained projections from model structures, as well as noise. The algorithms show different degrees of over-fitting, especially at high resolution where the signal is weak. We demonstrate that the degree of over-fitting is reduced with a weighting scheme that depends on the signal-to-noise ratio in the data. The weighting also improves the accuracy of resolution measurement by the commonly used Fourier shell correlation. The performance of the refinement algorithms is compared to that using a maximum likelihood approach. The weighted correlation coefficient was implemented in the computer program FREALIGN.},
+   keywords = {Algorithms
+Artifacts
+Image Processing, Computer-Assisted/ methods
+Imaging, Three-Dimensional/ methods
+Microscopy, Electron
+Sensitivity and Specificity},
+   year = {2004}
+}
+

@@ -1,0 +1,56 @@
+﻿   author = {Lau, W. C. and Rubinstein, J. L.},
+   title = {Structure of intact Thermus thermophilus V-ATPase by cryo-EM reveals organization of the membrane-bound V(O) motor},
+   journal = {Proc Natl Acad Sci U S A},
+   volume = {107},
+   number = {4},
+   pages = {1367-72},
+   note = {Lau, Wilson C Y
+Rubinstein, John L
+MOP 81294/Canadian Institutes of Health Research/Canada
+Research Support, Non-U.S. Gov't
+United States
+Proceedings of the National Academy of Sciences of the United States of America
+Proc Natl Acad Sci U S A. 2010 Jan 26;107(4):1367-72. Epub 2010 Jan 6.},
+   abstract = {The eubacterium Thermus thermophilus uses a macromolecular assembly closely related to eukaryotic V-ATPase to produce its supply of ATP. This simplified V-ATPase offers several advantages over eukaryotic V-ATPases for structural analysis and investigation of the mechanism of the enzyme. Here we report the structure of the complex at approximately 16 A resolution as determined by single particle electron cryomicroscopy (cryo-EM). The resolution of the map and our use of cryo-EM, rather than negative stain EM, reveals detailed information about the internal organization of the assembly. We could separate the map into segments corresponding to subunits A and B, the threefold pseudosymmetric C-subunit, a central rotor consisting of subunits D and F, the L-ring, the stator subcomplex consisting of subunits I, E, and G, and a micelle of bound detergent. The architecture of the V(O) region shows a remarkably small area of contact between the I-subunit and the ring of L-subunits and is consistent with a two half-channel model for proton translocation. The arrangement of structural elements in V(O) gives insight into the mechanism of torque generation from proton translocation.},
+   keywords = {Cell Membrane/ metabolism
+Cryoelectron Microscopy
+Crystallography, X-Ray
+Models, Molecular
+Protein Interaction Domains and Motifs
+Protein Structure, Quaternary
+Protein Subunits/chemistry/metabolism
+Protons
+Thermus thermophilus/ enzymology
+Vacuolar Proton-Translocating ATPases/chemistry/ metabolism/ ultrastructure},
+   year = {2010}
+}
+
+   author = {Baker, L. A. and Watt, I. N. and Runswick, M. J. and Walker, J. E. and Rubinstein, J. L.},
+   title = {Arrangement of subunits in intact mammalian mitochondrial ATP synthase determined by cryo-EM},
+   journal = {Proc Natl Acad Sci U S A},
+   volume = {109},
+   number = {29},
+   pages = {11675-80},
+   note = {Baker, Lindsay A
+Watt, Ian N
+Runswick, Michael J
+Walker, John E
+Rubinstein, John L
+MOP 81294/Canadian Institutes of Health Research/Canada
+Medical Research Council/United Kingdom
+Research Support, Non-U.S. Gov't
+United States
+Proceedings of the National Academy of Sciences of the United States of America
+Proc Natl Acad Sci U S A. 2012 Jul 17;109(29):11675-80. doi: 10.1073/pnas.1204935109. Epub 2012 Jul 2.},
+   abstract = {Mitochondrial ATP synthase is responsible for the synthesis of ATP, a universal energy currency in cells. Whereas X-ray crystallography has revealed the structure of the soluble region of the complex and the membrane-intrinsic c-subunits, little is known about the structure of the six other proteins (a, b, f, A6L, e, and g) that comprise the membrane-bound region of the complex in animal mitochondria. Here, we present the structure of intact bovine mitochondrial ATP synthase at approximately 18 A resolution by electron cryomicroscopy of single particles in amorphous ice. The map reveals that the a-subunit and c(8)-ring of the complex interact with a small contact area and that the b-subunit spans the membrane without contacting the c(8)-ring. The e- and g-subunits extend from the a-subunit density distal to the c(8)-ring. The map was calculated from images of a preparation of the enzyme solubilized with the detergent dodecyl maltoside, which is visible in electron cryomicroscopy maps. The structure shows that the micelle surrounding the complex is curved. The observed bend in the micelle of the detergent-solubilized complex is consistent with previous electron tomography experiments and suggests that monomers of ATP synthase are sufficient to produce curvature in lipid bilayers.},
+   keywords = {Animals
+Cattle
+Cryoelectron Microscopy/ methods
+Mitochondrial Proton-Translocating ATPases/ chemistry
+Models, Molecular
+Protein Conformation
+Protein Subunits/ chemistry
+Protons},
+   year = {2012}
+}
+

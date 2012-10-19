@@ -1,0 +1,73 @@
+This is BibTeX, Version 0.99d (TeX Live 2012)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: thesis.aux
+The style file: biblatex.bst
+A level-1 auxiliary file: abstract.aux
+A level-1 auxiliary file: chap4.aux
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: thesis-blx.bib
+Database file #2: Bib_Thesis_label_less3.bib
+I was expecting a `,' or a `)'---line 1157 of file Bib_Thesis_label_less3.bib
+ : 
+ : }
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+"=" immediately follows an entry type---line 1254 of file Bib_Thesis_label_less3.bib
+ : @article
+ :         ={Hall_2011,
+I'm skipping whatever remains of this entry
+Biblatex version: 1.7
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+You've used 18 entries,
+            6019 wiz_defined-function locations,
+            1252 strings with 11106 characters,
+and the built_in function-call counts, 55155 in all, are:
+= -- 1773
+> -- 2040
+< -- 457
++ -- 620
+- -- 836
+* -- 4925
+:= -- 3570
+add.period$ -- 0
+call.type$ -- 18
+change.case$ -- 170
+chr.to.int$ -- 34
+cite$ -- 34
+duplicate$ -- 6157
+empty$ -- 5741
+format.name$ -- 1392
+if$ -- 12354
+int.to.chr$ -- 0
+int.to.str$ -- 34
+missing$ -- 0
+newline$ -- 524
+num.names$ -- 697
+pop$ -- 5459
+preamble$ -- 1
+purify$ -- 239
+quote$ -- 0
+skip$ -- 3158
+stack$ -- 0
+substring$ -- 694
+swap$ -- 2169
+text.length$ -- 508
+text.prefix$ -- 17
+top$ -- 1
+type$ -- 672
+warning$ -- 0
+while$ -- 356
+width$ -- 0
+write$ -- 505
+(There were 2 error messages)
