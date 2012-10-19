@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=latex 2012.6.30)  18 OCT 2012 18:00
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=latex 2012.6.30)  19 OCT 2012 14:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -828,6 +828,10 @@ Missing character: There is no ™ in font cmr12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
+
+
+LaTeX Warning: Reference `fig:Fig3.18' on page 17 undefined on input line 23.
+
 ) [3
 
 ] [4
@@ -835,8 +839,7 @@ Missing character: There is no “ in font cmr12!
 ]
 \openout2 = `chap4.aux'.
 
-
-(./chap4.tex
+ (./chap4.tex
 File: ../Ch4_figs/Fig4.1.eps Graphic file (type eps)
  <../Ch4_figs/Fig4.1.eps>
 Missing character: There is no â in font cmr12!
@@ -996,7 +999,18 @@ File: ../Ch4_figs/4.12.eps Graphic file (type eps)
 LaTeX Warning: Reference `fig:4.12' on page 10 undefined on input line 86.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--88
+LaTeX Warning: Reference `fig:Fig3.17' on page 10 undefined on input line 88.
+
+File: ../Ch4_figs/IID_IIA_IIB_SCP_fig.eps Graphic file (type eps)
+<../Ch4_figs/IID_IIA_IIB_SCP_fig.eps>
+
+LaTeX Warning: Reference `fig:Fig3.18' on page 10 undefined on input line 92.
+
+
+LaTeX Warning: Reference `fig:Fig3.18' on page 10 undefined on input line 92.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--96
 
  []
 
@@ -1025,13 +1039,6 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [15]
-File: ../Ch4_figs/Fig4.13.eps Graphic file (type eps)
- <../Ch4_figs/Fig4.13.eps>
-
-LaTeX Warning: Float too large for page by 2.24953pt on input line 96.
-
-File: ../Ch4_figs/Fig4.14.eps Graphic file (type eps)
-<../Ch4_figs/Fig4.14.eps>)
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
@@ -1040,15 +1047,30 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [17]
+File: ../Ch4_figs/Fig4.13.eps Graphic file (type eps)
+ <../Ch4_figs/Fig4.13.eps>
+
+LaTeX Warning: Float too large for page by 2.24953pt on input line 104.
+
+File: ../Ch4_figs/Fig4.14.eps Graphic file (type eps)
+<../Ch4_figs/Fig4.14.eps>)
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [18]
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[19]
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[20]
 No file thesis.nls.
-[19
+[21
 
 
-] [20
+] [22
 
 ]
 Overfull \hbox (35.44461pt too wide) in paragraph at lines 92--92
@@ -1062,7 +1084,7 @@ Class memoir Warning: The material used in the headers is too large
 either increase the head height or redesign the header
 (in both cases you will find help in the memoir manual). on input line 93.
 
-[21]
+[23]
 \tf@toc=\write6
 \openout6 = `thesis.toc'.
 
@@ -1078,12 +1100,12 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 10364 strings out of 493489
- 156833 string characters out of 3141349
- 355938 words of memory out of 3000000
- 13571 multiletter control sequences out of 15000+200000
+ 10369 strings out of 493489
+ 156931 string characters out of 3141349
+ 359938 words of memory out of 3000000
+ 13575 multiletter control sequences out of 15000+200000
  10173 words of font info for 36 fonts, out of 3000000 for 9000
  958 hyphenation exceptions out of 8191
- 37i,10n,49p,1556b,947s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,10n,49p,1629b,947s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on thesis.dvi (29 pages, 49996 bytes).
+Output written on thesis.dvi (31 pages, 55236 bytes).

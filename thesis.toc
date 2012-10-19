@@ -14,8 +14,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.4}TFIID-TFIIA-TFIIB-SCP adopts the rearranged conformation on promoter DNA}{12}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.5}A general model of regulated DNA binding by TFIID}{16}
+\contentsline {section}{\numberline {1.5}A general model of regulated DNA binding by TFIID}{18}
 \defcounter {refsection}{0}\relax 
-\contentsline {appendix}{\chapternumberline {A}methods}{19}
+\contentsline {appendix}{\chapternumberline {A}methods}{21}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliography}{20}
+\contentsline {chapter}{Bibliography}{22}
