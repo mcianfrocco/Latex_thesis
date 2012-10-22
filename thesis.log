@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=latex 2012.6.30)  19 OCT 2012 16:06
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=latex 2012.6.30)  22 OCT 2012 01:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1038,21 +1038,35 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [18]
-
-LaTeX Warning: Reference `Fig:Fig4.14' on page 19 undefined on input line 110.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 110--111
 
  []
 
-File: ../Ch4_figs/Fig4.14.eps Graphic file (type eps)
-<../Ch4_figs/Fig4.14.eps>
-File: ../Ch4_figs/Fig4.15.eps Graphic file (type eps)
- <../Ch4_figs/Fig4.15.eps>
-File: ../Ch4_figs/BentDNA_mdoels.eps Graphic file (type eps)
 
-<../Ch4_figs/BentDNA_mdoels.eps>)
+LaTeX Warning: Reference `fig:Fig2.3' on page 19 undefined on input line 114.
+
+
+LaTeX Warning: Reference `fig:Fig2.4' on page 19 undefined on input line 114.
+
+
+LaTeX Warning: Reference `fig:Fig2.5' on page 19 undefined on input line 114.
+
+
+LaTeX Warning: Reference `fig:Fig2.6' on page 19 undefined on input line 115.
+
+
+LaTeX Warning: Reference `fig:Fig2.6' on page 19 undefined on input line 116.
+
+
+LaTeX Warning: Reference `fig:Fig2.6' on page 19 undefined on input line 117.
+
+
+LaTeX Warning: Reference `fig:Fig2.7' on page 19 undefined on input line 117.
+
+
+LaTeX Warning: Reference `fig:Fig3.16' on page 19 undefined on input line 117.
+
+
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
@@ -1065,6 +1079,13 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [21]
+File: ../Ch4_figs/Fig4.14.eps Graphic file (type eps)
+ <../Ch4_figs/Fig4.14.eps>
+File: ../Ch4_figs/Fig4.15.eps Graphic file (type eps)
+ <../Ch4_figs/Fig4.15.eps>
+File: ../Ch4_figs/BentDNA_mdoels.eps Graphic file (type eps)
+
+<../Ch4_figs/BentDNA_mdoels.eps>)
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
@@ -1073,33 +1094,51 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [23]
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[24]
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[25]
 \openout2 = `concl.aux'.
 
- (./concl.tex) [24
+ (./concl.tex) [26
 
 
 
-]
+] (./taf6.tex
+File: ../Ch4_figs/Purification.eps Graphic file (type eps)
+ <../Ch4_figs/Purification.eps>
+File: ../Ch4_figs/TAF6.eps Graphic file (type eps)
+
+<../Ch4_figs/TAF6.eps>
+
+LaTeX Warning: Float too large for page by 75.05496pt on input line 22.
+
+) (./methods.tex [27
+
+
+] [28])
 No file thesis.nls.
-[25
+[29
 
+] [30
 
 ]
-Overfull \hbox (35.44461pt too wide) in paragraph at lines 92--92
+Overfull \hbox (35.44461pt too wide) in paragraph at lines 93--93
 []\OT1/cmr/m/n/12 K. Uchida et al. ``High res-o-lu-tion foot-print-ing of EcoRI
  and dis-tamycin with Rh(phi)2(bpy)3+,
  []
 
-[26
-
-]
 
 Class memoir Warning: The material used in the headers is too large
 (28.99998pt) for the given head height (14.5pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 93.
+(in both cases you will find help in the memoir manual). on input line 94.
 
-[27]
+[31]
 \tf@toc=\write6
 \openout6 = `thesis.toc'.
 
@@ -1115,12 +1154,12 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 10388 strings out of 493489
- 157178 string characters out of 3141349
+ 10414 strings out of 493489
+ 157531 string characters out of 3141349
  359938 words of memory out of 3000000
- 13584 multiletter control sequences out of 15000+200000
+ 13602 multiletter control sequences out of 15000+200000
  10173 words of font info for 36 fonts, out of 3000000 for 9000
  958 hyphenation exceptions out of 8191
- 37i,10n,49p,1629b,949s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,10n,49p,2302b,947s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on thesis.dvi (35 pages, 59772 bytes).
+Output written on thesis.dvi (39 pages, 70704 bytes).

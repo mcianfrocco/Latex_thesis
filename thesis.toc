@@ -18,8 +18,14 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{TFIID-TFIIA-SCP}{19}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {2}Conclusions and outlook}{24}
+\contentsline {subsection}{TFIID-TFIIA-SCP(mTATA)}{22}
 \defcounter {refsection}{0}\relax 
-\contentsline {appendix}{\chapternumberline {A}methods}{25}
+\contentsline {subsection}{TFIID-TFIIA-SCP(mMTE/DPE)}{22}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliography}{26}
+\contentsline {chapter}{\chapternumberline {2}Conclusions and outlook}{26}
+\defcounter {refsection}{0}\relax 
+\contentsline {appendix}{\chapternumberline {A}TAF6 antibody localization}{27}
+\defcounter {refsection}{0}\relax 
+\contentsline {appendix}{\chapternumberline {B}Materials \& Methods}{29}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliography}{30}

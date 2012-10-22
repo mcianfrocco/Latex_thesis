@@ -16,6 +16,76 @@
   {}
 \endgroup
 
+\entry{Bagby_2202}{article}{}
+  \name{author}{6}{}{%
+    {{}%
+     {Bagby}{B.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mal}{M.}%
+     {T.~K.}{T.~K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Liu}{L.}%
+     {D.}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Raddatz}{R.}%
+     {E.}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nakatani}{N.}%
+     {Y.}{Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ikura}{I.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BS+1}
+  \strng{fullhash}{BSMTKLDRENYIM1}
+  \field{sortinit}{B}
+  \field{number}{2-3}
+  \field{pages}{149\bibrangedash 54}
+  \field{title}{TFIIA-TAF regulatory interplay: NMR evidence for overlapping
+  binding sites on TBP}
+  \field{volume}{468}
+  \field{journaltitle}{FEBS Lett}
+  \field{year}{2000}
+\endentry
+
+\entry{Burke_2739}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Burke}{B.}%
+     {T.~W.}{T.~W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kadonaga}{K.}%
+     {J.~T.}{J.~T.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BTWKJT1}
+  \strng{fullhash}{BTWKJT1}
+  \field{sortinit}{B}
+  \field{number}{22}
+  \field{pages}{3020\bibrangedash 31}
+  \field{title}{The downstream core promoter element, DPE, is conserved from
+  Drosophila to humans and is recognized by TAFII60 of Drosophila}
+  \field{volume}{11}
+  \field{journaltitle}{Genes Dev}
+  \field{year}{1997}
+\endentry
+
 \entry{Deng_2005}{article}{}
   \name{author}{2}{}{%
     {{}%
@@ -219,6 +289,111 @@
   \field{year}{1993}
 \endentry
 
+\entry{Lim_1522}{article}{}
+  \name{author}{6}{}{%
+    {{}%
+     {Lim}{L.}%
+     {C.~Y.}{C.~Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Santoso}{S.}%
+     {B.}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Boulay}{B.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Dong}{D.}%
+     {E.}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ohler}{O.}%
+     {U.}{U.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kadonaga}{K.}%
+     {J.~T.}{J.~T.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{LCY+1}
+  \strng{fullhash}{LCYSBBTDEOUKJT1}
+  \field{sortinit}{L}
+  \field{number}{13}
+  \field{pages}{1606\bibrangedash 17}
+  \field{title}{The MTE, a new core promoter element for transcription by RNA
+  polymerase II}
+  \field{volume}{18}
+  \field{journaltitle}{Genes Dev}
+  \field{year}{2004}
+\endentry
+
+\entry{Liu_2574}{article}{}
+  \name{author}{9}{}{%
+    {{}%
+     {Liu}{L.}%
+     {D.}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ishima}{I.}%
+     {R.}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Tong}{T.}%
+     {K.~I.}{K.~I.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bagby}{B.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kokubo}{K.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Muhandiram}{M.}%
+     {D.~R.}{D.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kay}{K.}%
+     {L.~E.}{L.~E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nakatani}{N.}%
+     {Y.}{Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ikura}{I.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{LD+1}
+  \strng{fullhash}{LDIRTKIBSKTMDRKLENYIM1}
+  \field{sortinit}{L}
+  \field{number}{5}
+  \field{pages}{573\bibrangedash 83}
+  \field{title}{Solution structure of a TBP-TAF(II)230 complex: protein mimicry
+  of the minor groove surface of the TATA box unwound by TBP}
+  \field{volume}{94}
+  \field{journaltitle}{Cell}
+  \field{year}{1998}
+\endentry
+
 \entry{Nikolov_3177}{article}{}
   \name{author}{8}{}{%
     {{}%
@@ -315,6 +490,60 @@
   \field{volume}{43}
   \field{journaltitle}{Cell}
   \field{year}{1985}
+\endentry
+
+\entry{Shao_1340}{article}{}
+  \name{author}{8}{}{%
+    {{}%
+     {Shao}{S.}%
+     {H.}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Revach}{R.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Moshonov}{M.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Tzuman}{T.}%
+     {Y.}{Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gazit}{G.}%
+     {K.}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Albeck}{A.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Unger}{U.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Dikstein}{D.}%
+     {R.}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SH+1}
+  \strng{fullhash}{SHRMMSTYGKASUTDR1}
+  \field{sortinit}{S}
+  \field{number}{1}
+  \field{pages}{206\bibrangedash 19}
+  \field{title}{Core promoter binding by histone-like TAF complexes}
+  \field{volume}{25}
+  \field{journaltitle}{Mol Cell Biol}
+  \field{year}{2005}
 \endentry
 
 \entry{Thomas_1201}{article}{}
