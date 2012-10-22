@@ -41,36 +41,6 @@
   \field{year}{2005}
 \endentry
 
-\entry{Evans_2001}{article}{}
-  \name{author}{3}{}{%
-    {{}%
-     {Evans}{E.}%
-     {R.}{R.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Fairley}{F.}%
-     {J.~A.}{J.~A.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Roberts}{R.}%
-     {S.~G.}{S.~G.}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{ERFJARSG1}
-  \strng{fullhash}{ERFJARSG1}
-  \field{sortinit}{E}
-  \field{number}{22}
-  \field{pages}{2945\bibrangedash 9}
-  \field{title}{Activator-mediated disruption of sequence-specific DNA contacts
-  by the general transcription factor TFIIB}
-  \field{volume}{15}
-  \field{journaltitle}{Genes Dev}
-  \field{year}{2001}
-\endentry
-
 \entry{Geiger_2949}{article}{}
   \name{author}{4}{}{%
     {{}%
@@ -247,46 +217,6 @@
   \field{volume}{365}
   \field{journaltitle}{Nature}
   \field{year}{1993}
-\endentry
-
-\entry{Lagrange_1998}{article}{}
-  \name{author}{5}{}{%
-    {{}%
-     {Lagrange}{L.}%
-     {T.}{T.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Kapanidis}{K.}%
-     {A.~N.}{A.~N.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Tang}{T.}%
-     {H.}{H.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Reinberg}{R.}%
-     {D.}{D.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Ebright}{E.}%
-     {R.~H.}{R.~H.}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{LT+1}
-  \strng{fullhash}{LTKANTHRDERH1}
-  \field{sortinit}{L}
-  \field{number}{1}
-  \field{pages}{34\bibrangedash 44}
-  \field{title}{New core promoter element in RNA polymerase II-dependent
-  transcription: sequence-specific DNA binding by transcription factor IIB}
-  \field{volume}{12}
-  \field{journaltitle}{Genes Dev}
-  \field{year}{1998}
 \endentry
 
 \entry{Nikolov_3177}{article}{}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=latex 2012.6.30)  19 OCT 2012 14:37
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=latex 2012.6.30)  19 OCT 2012 16:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -750,7 +750,7 @@ File: english.lbx 2011/11/13 v1.7 biblatex localization
 \@quotelevel=\count312
 \@quotereset=\count313
 
-(./thesis.aux (./abstract.aux) (./chap4.aux))
+(./thesis.aux (./abstract.aux) (./chap4.aux) (./concl.aux))
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
@@ -828,10 +828,6 @@ Missing character: There is no ™ in font cmr12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
-
-
-LaTeX Warning: Reference `fig:Fig3.18' on page 17 undefined on input line 23.
-
 ) [3
 
 ] [4
@@ -839,7 +835,8 @@ LaTeX Warning: Reference `fig:Fig3.18' on page 17 undefined on input line 23.
 ]
 \openout2 = `chap4.aux'.
 
- (./chap4.tex
+
+(./chap4.tex
 File: ../Ch4_figs/Fig4.1.eps Graphic file (type eps)
  <../Ch4_figs/Fig4.1.eps>
 Missing character: There is no â in font cmr12!
@@ -868,6 +865,9 @@ Missing character: There is no ™ in font cmr12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
+File: ../Ch4_figs/Fig4.4.eps Graphic file (type eps)
+
+<../Ch4_figs/Fig4.4.eps>
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
@@ -875,14 +875,7 @@ Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
 
-
-LaTeX Warning: Reference `fig:Fig4.4' on page 1 undefined on input line 22.
-
-
-LaTeX Warning: Reference `fig:Fig4.4' on page 1 undefined on input line 24.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 13--25
+Underfull \hbox (badness 10000) in paragraph at lines 13--31
 
  []
 
@@ -894,7 +887,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--25
 Class memoir Warning: The material used in the headers is too large
 (28.99998pt) for the given head height (14.5pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 25.
+(in both cases you will find help in the memoir manual). on input line 31.
 
 
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
@@ -909,6 +902,10 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [4]
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[5]
 File: ../Ch4_figs/Fig4.7.eps Graphic file (type eps)
  <../Ch4_figs/Fig4.7.eps>
 Missing character: There is no â in font cmr12!
@@ -966,59 +963,43 @@ File: ../Ch4_figs/Fig4.6.eps Graphic file (type eps)
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[5]
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
 [6]
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [7]
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[8]
 File: ../Ch4_figs/Fig4.5.eps Graphic file (type eps)
  <../Ch4_figs/Fig4.5.eps>
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[8]
+[9]
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[9]
+[10]
 File: ../Ch4_figs/Fig4.9.eps Graphic file (type eps)
  <../Ch4_figs/Fig4.9.eps>
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no … in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no … in font cmr12!
 File: ../Ch4_figs/Fig4.11.eps Graphic file (type eps)
  <../Ch4_figs/Fig4.11.eps>
 File: ../Ch4_figs/4.12.eps Graphic file (type eps)
  <../Ch4_figs/4.12.eps>
 
-LaTeX Warning: Reference `fig:4.12' on page 10 undefined on input line 86.
-
-
-LaTeX Warning: Reference `fig:Fig3.17' on page 10 undefined on input line 88.
+LaTeX Warning: Reference `fig:Fig3.17' on page 11 undefined on input line 94.
 
 File: ../Ch4_figs/IID_IIA_IIB_SCP_fig.eps Graphic file (type eps)
 <../Ch4_figs/IID_IIA_IIB_SCP_fig.eps>
 
-LaTeX Warning: Reference `fig:Fig3.18' on page 10 undefined on input line 92.
+LaTeX Warning: Reference `fig:Fig3.18' on page 11 undefined on input line 98.
 
 
-LaTeX Warning: Reference `fig:Fig3.18' on page 10 undefined on input line 92.
+LaTeX Warning: Reference `fig:Fig3.18' on page 11 undefined on input line 98.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--96
-
- []
-
-
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[10]
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
@@ -1043,21 +1024,35 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [16]
+File: ../Ch4_figs/Fig4.13.eps Graphic file (type eps)
+ <../Ch4_figs/Fig4.13.eps>
+
+LaTeX Warning: Float too large for page by 2.24953pt on input line 108.
+
+
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [17]
-File: ../Ch4_figs/Fig4.13.eps Graphic file (type eps)
- <../Ch4_figs/Fig4.13.eps>
-
-LaTeX Warning: Float too large for page by 2.24953pt on input line 104.
-
-File: ../Ch4_figs/Fig4.14.eps Graphic file (type eps)
-<../Ch4_figs/Fig4.14.eps>)
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [18]
+
+LaTeX Warning: Reference `Fig:Fig4.14' on page 19 undefined on input line 110.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
+
+ []
+
+File: ../Ch4_figs/Fig4.14.eps Graphic file (type eps)
+<../Ch4_figs/Fig4.14.eps>
+File: ../Ch4_figs/Fig4.15.eps Graphic file (type eps)
+ <../Ch4_figs/Fig4.15.eps>
+File: ../Ch4_figs/BentDNA_mdoels.eps Graphic file (type eps)
+
+<../Ch4_figs/BentDNA_mdoels.eps>)
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
@@ -1066,11 +1061,28 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [20]
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[21]
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[22]
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[23]
+\openout2 = `concl.aux'.
+
+ (./concl.tex) [24
+
+
+
+]
 No file thesis.nls.
-[21
+[25
 
-
-] [22
 
 ]
 Overfull \hbox (35.44461pt too wide) in paragraph at lines 92--92
@@ -1078,20 +1090,23 @@ Overfull \hbox (35.44461pt too wide) in paragraph at lines 92--92
  and dis-tamycin with Rh(phi)2(bpy)3+,
  []
 
+[26
+
+]
 
 Class memoir Warning: The material used in the headers is too large
 (28.99998pt) for the given head height (14.5pt), it is recommended to
 either increase the head height or redesign the header
 (in both cases you will find help in the memoir manual). on input line 93.
 
-[23]
+[27]
 \tf@toc=\write6
 \openout6 = `thesis.toc'.
 
 \tf@lof=\write7
 \openout7 = `thesis.lof'.
 
- (./thesis.aux (./abstract.aux) (./chap4.aux))
+ (./thesis.aux (./abstract.aux) (./chap4.aux) (./concl.aux))
 
 LaTeX Warning: There were undefined references.
 
@@ -1100,12 +1115,12 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 10369 strings out of 493489
- 156931 string characters out of 3141349
+ 10388 strings out of 493489
+ 157178 string characters out of 3141349
  359938 words of memory out of 3000000
- 13575 multiletter control sequences out of 15000+200000
+ 13584 multiletter control sequences out of 15000+200000
  10173 words of font info for 36 fonts, out of 3000000 for 9000
  958 hyphenation exceptions out of 8191
- 37i,10n,49p,1629b,947s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,10n,49p,1629b,949s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on thesis.dvi (31 pages, 55236 bytes).
+Output written on thesis.dvi (35 pages, 59772 bytes).

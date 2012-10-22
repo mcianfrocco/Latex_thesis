@@ -4,6 +4,7 @@ The top-level auxiliary file: thesis.aux
 The style file: biblatex.bst
 A level-1 auxiliary file: abstract.aux
 A level-1 auxiliary file: chap4.aux
+A level-1 auxiliary file: concl.aux
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
@@ -29,45 +30,45 @@ I'm skipping whatever remains of this entry
 Biblatex version: 1.7
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
-You've used 18 entries,
+You've used 16 entries,
             6019 wiz_defined-function locations,
-            1252 strings with 11106 characters,
-and the built_in function-call counts, 55155 in all, are:
-= -- 1773
-> -- 2040
-< -- 457
-+ -- 620
-- -- 836
-* -- 4925
-:= -- 3570
+            1240 strings with 10685 characters,
+and the built_in function-call counts, 48476 in all, are:
+= -- 1564
+> -- 1790
+< -- 403
++ -- 542
+- -- 730
+* -- 4280
+:= -- 3157
 add.period$ -- 0
-call.type$ -- 18
-change.case$ -- 170
+call.type$ -- 16
+change.case$ -- 150
 chr.to.int$ -- 34
-cite$ -- 34
-duplicate$ -- 6157
-empty$ -- 5741
-format.name$ -- 1392
-if$ -- 12354
+cite$ -- 30
+duplicate$ -- 5391
+empty$ -- 5054
+format.name$ -- 1206
+if$ -- 10875
 int.to.chr$ -- 0
-int.to.str$ -- 34
+int.to.str$ -- 30
 missing$ -- 0
-newline$ -- 524
-num.names$ -- 697
-pop$ -- 5459
+newline$ -- 456
+num.names$ -- 615
+pop$ -- 4811
 preamble$ -- 1
-purify$ -- 239
+purify$ -- 209
 quote$ -- 0
-skip$ -- 3158
+skip$ -- 2789
 stack$ -- 0
-substring$ -- 694
-swap$ -- 2169
-text.length$ -- 508
-text.prefix$ -- 17
+substring$ -- 627
+swap$ -- 1897
+text.length$ -- 448
+text.prefix$ -- 15
 top$ -- 1
-type$ -- 672
+type$ -- 596
 warning$ -- 0
-while$ -- 356
+while$ -- 320
 width$ -- 0
-write$ -- 505
+write$ -- 439
 (There were 2 error messages)

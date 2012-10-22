@@ -8,14 +8,18 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.1}Detailed footprinting of TFIID-TFIIA-SCP}{3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.2}TFIID interacts with diverse promoter architectures through the rearranged conformation}{5}
+\contentsline {section}{\numberline {1.2}TFIID interacts with diverse promoter architectures through the rearranged conformation}{6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.3}DNA binding within the canonical conformation}{8}
+\contentsline {section}{\numberline {1.3}DNA binding within the canonical conformation}{9}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.4}TFIID-TFIIA-TFIIB-SCP adopts the rearranged conformation on promoter DNA}{12}
+\contentsline {section}{\numberline {1.4}TFIID-TFIIA-TFIIB-SCP adopts the rearranged conformation on promoter DNA}{13}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.5}A general model of regulated DNA binding by TFIID}{18}
+\contentsline {section}{\numberline {1.5}A general model of regulated DNA binding by TFIID}{19}
 \defcounter {refsection}{0}\relax 
-\contentsline {appendix}{\chapternumberline {A}methods}{21}
+\contentsline {subsection}{TFIID-TFIIA-SCP}{19}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliography}{22}
+\contentsline {chapter}{\chapternumberline {2}Conclusions and outlook}{24}
+\defcounter {refsection}{0}\relax 
+\contentsline {appendix}{\chapternumberline {A}methods}{25}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliography}{26}
