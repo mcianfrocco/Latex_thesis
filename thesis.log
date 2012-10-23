@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=latex 2012.6.30)  23 OCT 2012 12:35
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=latex 2012.6.30)  23 OCT 2012 12:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -747,7 +747,8 @@ File: english.lbx 2011/11/13 v1.7 biblatex localization
 \@quotelevel=\count312
 \@quotereset=\count313
 
-(./thesis.aux (./abstract.aux) (./acronyms.aux))
+(./thesis.aux (./abstract.aux) (./acronyms.aux) (./chap1.aux) (./chap2.aux)
+(./chap3.aux) (./chap4.aux) (./concl.aux))
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
@@ -821,199 +822,57 @@ Missing character: There is no ô in font cmr12!
 
 ]) [1
 
-]
-No file thesis.toc.
-[2]
-No file thesis.lof.
-[3
+] (./thesis.toc [2]) [3] (./thesis.lof
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ [4
 
 ]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+)
+[5]
 \openout2 = `acronyms.aux'.
 
- (./acronyms.tex) [4
+ (./acronyms.tex) [6
 
 
 
-] [5
+] [7
 
 ]
 \openout2 = `chap1.aux'.
 
- (./chap1.tex
-
-LaTeX Warning: Citation 'Levine_1710' on page 1 undefined on input line 4.
-
-
-LaTeX Warning: Citation 'Watson_4017' on page 1 undefined on input line 5.
-
-[1
+ (./chap1.tex [1
 
 
 ]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
-
-
-LaTeX Warning: Reference `fig:Fig1.1' on page 2 undefined on input line 9.
-
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ò in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
-
-LaTeX Warning: Citation 'd_41' on page 2 undefined on input line 9.
-
 File: ../Ch1_figs/Fig1.1.eps Graphic file (type eps)
-<../Ch1_figs/Fig1.1.eps>
-
-LaTeX Warning: Citation 'Thomas_1201' on page 2 undefined on input line 16.
-
-
-LaTeX Warning: Reference `fig:Fig1.1' on page 2 undefined on input line 16.
-
-
-LaTeX Warning: Citation 'Buratowski_3748' on page 2 undefined on input line 16.
-
-
-
-LaTeX Warning: Citation 'Rhee_24' on page 2 undefined on input line 16.
-
-
-LaTeX Warning: Citation 'Burley_3049' on page 2 undefined on input line 16.
-
-
-LaTeX Warning: Citation 'Bagby_2202' on page 2 undefined on input line 16.
-
-
-LaTeX Warning: Citation 'Geiger_2949' on page 2 undefined on input line 16.
-
-
-LaTeX Warning: Citation 'Liu_2574' on page 2 undefined on input line 16.
-
-
-LaTeX Warning: Citation 'Thomas_1201' on page 2 undefined on input line 16.
-
-
-LaTeX Warning: Reference `fig:Fig1.5' on page 2 undefined on input line 17.
-
-
-LaTeX Warning: Citation 'Lagrange_2618' on page 2 undefined on input line 17.
-
-
-LaTeX Warning: Citation 'Nikolov_3177' on page 2 undefined on input line 17.
-
+ <../Ch1_figs/Fig1.1.eps>
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
-
-LaTeX Warning: Citation 'Kostrewa_659' on page 2 undefined on input line 17.
-
 File: ../Ch1_figs/Fig1.5b.eps Graphic file (type eps)
+
 <../Ch1_figs/Fig1.5b.eps>
-
-LaTeX Warning: Citation 'Bleichenbacher_2003' on page 2 undefined on input line
- 21.
-
-
-LaTeX Warning: Citation 'Nikolov_3177' on page 2 undefined on input line 21.
-
-
-LaTeX Warning: Citation 'Bleichenbacher_2003' on page 2 undefined on input line
- 21.
-
-
-LaTeX Warning: Citation 'Nikolov_3177' on page 2 undefined on input line 21.
-
-[2] [3]
-
-LaTeX Warning: Citation 'Burley_3049' on page 4 undefined on input line 28.
-
-
-LaTeX Warning: Citation 'Matsui_3980' on page 4 undefined on input line 28.
-
-
-LaTeX Warning: Citation 'Buratowski_1988' on page 4 undefined on input line 28.
-
-
-
-LaTeX Warning: Reference `fig:Fig1.3' on page 4 undefined on input line 28.
-
-
-LaTeX Warning: Citation 'Pugh_3586' on page 4 undefined on input line 28.
-
-
-LaTeX Warning: Citation 'Dynlacht_3551' on page 4 undefined on input line 28.
-
-
-LaTeX Warning: Reference `fig:Fig1.3' on page 4 undefined on input line 28.
-
-
-LaTeX Warning: Reference `fig:Fig1.3' on page 4 undefined on input line 28.
-
-
-LaTeX Warning: Citation 'Pugh_3586' on page 4 undefined on input line 28.
-
 File: ../Ch1_figs/Fig1.3.eps Graphic file (type eps)
-<../Ch1_figs/Fig1.3.eps>
-
-LaTeX Warning: Citation 'Pugh_3586' on page 4 undefined on input line 32.
-
-
-LaTeX Warning: Citation 'Dynlacht_3551' on page 4 undefined on input line 32.
-
-
-LaTeX Warning: Citation 'Pugh_3586' on page 4 undefined on input line 32.
-
-
-LaTeX Warning: Citation 'Dynlacht_3551' on page 4 undefined on input line 32.
-
-
-LaTeX Warning: Citation 'Smale_3697' on page 4 undefined on input line 35.
-
-
-LaTeX Warning: Citation 'Lim_1522' on page 4 undefined on input line 35.
-
-
-LaTeX Warning: Citation 'Burke_3081' on page 4 undefined on input line 35.
-
-
-LaTeX Warning: Reference `fig:Fig1.4' on page 4 undefined on input line 35.
-
-
-LaTeX Warning: Citation 'Verrijzer_3120' on page 4 undefined on input line 35.
-
-
-LaTeX Warning: Citation 'Chalkley_2339' on page 4 undefined on input line 35.
-
+ <../Ch1_figs/Fig1.3.eps>
 File: ../Ch1_figs/Fig1.4.eps Graphic file (type eps)
-<../Ch1_figs/Fig1.4.eps>
-
-LaTeX Warning: Reference `fig:Fig1.4' on page 4 undefined on input line 42.
-
-
-LaTeX Warning: Citation 'Kim_1387' on page 4 undefined on input line 42.
-
-
-LaTeX Warning: Citation 'Burke_2739' on page 4 undefined on input line 42.
-
-
-LaTeX Warning: Citation 'Lim_1522' on page 4 undefined on input line 42.
-
-
-LaTeX Warning: Citation 'Xie_2805' on page 4 undefined on input line 42.
-
-
-LaTeX Warning: Citation 'Hoffmann_2911' on page 4 undefined on input line 42.
-
-
-LaTeX Warning: Citation 'Shao_1340' on page 4 undefined on input line 42.
-
-
-LaTeX Warning: Citation 'Shao_1340' on page 4 undefined on input line 42.
-
+ <../Ch1_figs/Fig1.4.eps>
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ú in font cmr12!
@@ -1021,169 +880,14 @@ Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
 
-LaTeX Warning: Reference `fig:Fig1.4' on page 4 undefined on input line 43.
-
-
-LaTeX Warning: Citation 'Juven-Gershon_1249' on page 4 undefined on input line 
-43.
-
-
-LaTeX Warning: Citation 'Juven-Gershon_1249' on page 4 undefined on input line 
-43.
-
-[4] [5] [6]
-
-LaTeX Warning: Citation 'Juven-Gershon_468' on page 7 undefined on input line 5
-0.
-
-
-LaTeX Warning: Citation 'Ohtsuki_2485' on page 7 undefined on input line 50.
-
-
-LaTeX Warning: Reference `fig:Enhancers' on page 7 undefined on input line 50.
-
-
-LaTeX Warning: Citation 'Juven-Gershon_776' on page 7 undefined on input line 5
-1.
-
-
-LaTeX Warning: Reference `fig:Enhancers' on page 7 undefined on input line 51.
-
+[2] [3] [4] [5] [6] [7]
 File: ../Ch1_figs/Enhancers4.eps Graphic file (type eps)
-<../Ch1_figs/Enhancers4.eps>
-
-LaTeX Warning: Citation 'Ohtsuki_2485' on page 7 undefined on input line 58.
-
-
-LaTeX Warning: Citation 'Hsu_811' on page 7 undefined on input line 58.
-
-
-LaTeX Warning: Citation 'Kamada_1996' on page 7 undefined on input line 58.
-
-
-LaTeX Warning: Citation 'Darst_2003' on page 7 undefined on input line 58.
-
-
-Overfull \hbox (11.46031pt too wide) in paragraph at lines 50--59
-\OT1/cmr/m/n/12 scrip-tion fac-tor in \OT1/cmr/m/it/12 Drosophila \OT1/cmr/m/n/
-12 de-vel-op-ment, as a DPE-specific en-hancer [[]].
- []
-
-[7]
-
-LaTeX Warning: Citation 'Bhattacharya_1103' on page 8 undefined on input line 6
-3.
-
-
-LaTeX Warning: Citation 'Jacobson_2160' on page 8 undefined on input line 63.
-
-
-LaTeX Warning: Citation 'Kim_3377' on page 8 undefined on input line 63.
-
-
-LaTeX Warning: Citation 'Kim_3416' on page 8 undefined on input line 63.
-
-
-LaTeX Warning: Citation 'Liu_2574' on page 8 undefined on input line 63.
-
-
-LaTeX Warning: Citation 'Werten_1763' on page 8 undefined on input line 63.
-
-
-LaTeX Warning: Citation 'Xie_2805' on page 8 undefined on input line 63.
-
-
-LaTeX Warning: Citation 'Leschziner_883' on page 8 undefined on input line 63.
-
+ <../Ch1_figs/Enhancers4.eps> [8] [9]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no Ö in font cmr12!
-
-LaTeX Warning: Reference `fig:Compare' on page 8 undefined on input line 64.
-
-
-LaTeX Warning: Citation 'Andel_2407' on page 8 undefined on input line 64.
-
-
-LaTeX Warning: Citation 'Brand_2375' on page 8 undefined on input line 64.
-
-
-LaTeX Warning: Citation 'Elmlund_691' on page 8 undefined on input line 64.
-
-
-LaTeX Warning: Citation 'Grob_1281' on page 8 undefined on input line 64.
-
-
-LaTeX Warning: Citation 'Leurent_1554' on page 8 undefined on input line 64.
-
-
-LaTeX Warning: Citation 'Leurent_1797' on page 8 undefined on input line 64.
-
-
-LaTeX Warning: Citation 'Liu_574' on page 8 undefined on input line 64.
-
-
-LaTeX Warning: Citation 'Papai_418' on page 8 undefined on input line 64.
-
-
-LaTeX Warning: Citation 'Papai_539' on page 8 undefined on input line 64.
-
-
-LaTeX Warning: Citation 'Elmlund_691' on page 8 undefined on input line 64.
-
-
-LaTeX Warning: Citation 'Papai_539' on page 8 undefined on input line 64.
-
 File: ../Ch1_figs/TFIID_compare.eps Graphic file (type eps)
-<../Ch1_figs/TFIID_compare.eps>
 
-LaTeX Warning: Citation 'Grob_1281' on page 8 undefined on input line 68.
-
-
-LaTeX Warning: Citation 'Elmlund_691' on page 8 undefined on input line 68.
-
-
-LaTeX Warning: Citation 'Papai_539' on page 8 undefined on input line 68.
-
-
-LaTeX Warning: Citation 'Grob_1281' on page 8 undefined on input line 68.
-
-
-LaTeX Warning: Citation 'Elmlund_691' on page 8 undefined on input line 68.
-
-
-LaTeX Warning: Citation 'Papai_539' on page 8 undefined on input line 68.
-
-
-LaTeX Warning: Reference `fig:Compare' on page 8 undefined on input line 71.
-
-
-LaTeX Warning: Citation 'Grob_1281' on page 8 undefined on input line 71.
-
-
-LaTeX Warning: Citation 'Elmlund_691' on page 8 undefined on input line 72.
-
-
-LaTeX Warning: Citation 'Papai_539' on page 8 undefined on input line 72.
-
-
-LaTeX Warning: Citation 'Stewart_2004' on page 8 undefined on input line 72.
-
-
-LaTeX Warning: Citation 'Papai_539' on page 8 undefined on input line 73.
-
-
-LaTeX Warning: Citation 'Papai_418' on page 8 undefined on input line 73.
-
-
-LaTeX Warning: Reference `fig:Compare' on page 8 undefined on input line 73.
-
-
-LaTeX Warning: Reference `fig:Compare' on page 8 undefined on input line 73.
-
-[8] [9]
-
-LaTeX Warning: Citation 'Grob_1281' on page 10 undefined on input line 77.
-
+<../Ch1_figs/TFIID_compare.eps> [10] [11]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ú in font cmr12!
@@ -1195,75 +899,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 77--79
 
  []
 
-[10]) [11]
+[12]) [13]
 \openout2 = `chap2.aux'.
 
  (./chap2.tex
 File: ../Ch2_figs/Fig2.1.eps Graphic file (type eps)
  <../Ch2_figs/Fig2.1.eps>
-
-LaTeX Warning: Citation 'Grob_1281' on page 12 undefined on input line 12.
-
-
-LaTeX Warning: Reference `fig:Fig2.1' on page 12 undefined on input line 12.
-
-
-LaTeX Warning: Reference `fig:Fig2.2' on page 12 undefined on input line 12.
-
-
-LaTeX Warning: Citation 'Grob_1281' on page 12 undefined on input line 12.
-
-
-LaTeX Warning: Reference `fig:Fig2.2' on page 12 undefined on input line 12.
-
-
-LaTeX Warning: Reference `fig:Fig2.2' on page 12 undefined on input line 12.
-
 File: ../Ch2_figs/Fig2.2.eps Graphic file (type eps)
-<../Ch2_figs/Fig2.2.eps>
-
-LaTeX Warning: Reference `fig:Fig2.3' on page 12 undefined on input line 19.
-
-
-LaTeX Warning: Reference `fig:Fig2.2' on page 12 undefined on input line 19.
-
-
-LaTeX Warning: Reference `fig:Fig2.3' on page 12 undefined on input line 19.
-
-
-LaTeX Warning: Reference `fig:Fig2.3' on page 12 undefined on input line 19.
-
-
-LaTeX Warning: Reference `fig:Fig2.3' on page 12 undefined on input line 19.
-
-
-LaTeX Warning: Reference `fig:Fig2.4' on page 12 undefined on input line 20.
-
-
-LaTeX Warning: Citation 'Andel_2407' on page 12 undefined on input line 20.
-
-
-LaTeX Warning: Citation 'Grob_1281' on page 12 undefined on input line 20.
-
-
-LaTeX Warning: Reference `fig:Fig2.4' on page 12 undefined on input line 20.
-
+ <../Ch2_figs/Fig2.2.eps>
 File: ../Ch2_figs/Fig2.3.eps Graphic file (type eps)
+
 <../Ch2_figs/Fig2.3.eps>
-
-LaTeX Warning: Citation 'Grob_1281' on page 12 undefined on input line 24.
-
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
-
-LaTeX Warning: Citation 'Grob_1281' on page 12 undefined on input line 24.
-
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
 File: ../Ch2_figs/Fig2.4.eps Graphic file (type eps)
-<../Ch2_figs/Fig2.4.eps>
+ <../Ch2_figs/Fig2.4.eps>
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
@@ -1294,7 +948,7 @@ Missing character: There is no ò in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
- [12
+ [14
 
 
 
@@ -1309,56 +963,27 @@ either increase the head height or redesign the header
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[13]
+[15]
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[14]
+[16]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ú in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
-
-
-LaTeX Warning: Reference `fig:Fig2.5' on page 15 undefined on input line 34.
-
-
-LaTeX Warning: Reference `fig:Fig2.5' on page 15 undefined on input line 34.
-
-
-LaTeX Warning: Reference `fig:Fig2.5' on page 15 undefined on input line 34.
-
-
-LaTeX Warning: Reference `fig:Fig2.2' on page 15 undefined on input line 34.
-
 File: ../Ch2_figs/Fig2.5.eps Graphic file (type eps)
-<../Ch2_figs/Fig2.5.eps>
+ <../Ch2_figs/Fig2.5.eps>
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
-
-
-LaTeX Warning: Reference `fig:Fig2.5' on page 15 undefined on input line 41.
-
-
-LaTeX Warning: Reference `fig:Fig2.5' on page 15 undefined on input line 41.
-
-
-LaTeX Warning: Reference `fig:Fig2.5' on page 15 undefined on input line 41.
-
-
-LaTeX Warning: Reference `fig:Fig2.6' on page 15 undefined on input line 41.
-
-
-LaTeX Warning: Reference `fig:Fig2.5' on page 15 undefined on input line 41.
-
 File: ../Ch2_figs/Fig2.6.eps Graphic file (type eps)
-<../Ch2_figs/Fig2.6.eps>
+ <../Ch2_figs/Fig2.6.eps>
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
@@ -1366,14 +991,6 @@ Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
 
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[15]
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[16]
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
@@ -1382,45 +999,6 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [18]
-
-LaTeX Warning: Reference `fig:Fig1.4' on page 19 undefined on input line 50.
-
-
-LaTeX Warning: Reference `fig:Fig2.6' on page 19 undefined on input line 50.
-
-
-LaTeX Warning: Reference `fig:Fig2.6' on page 19 undefined on input line 51.
-
-
-LaTeX Warning: Reference `fig:Fig2.6' on page 19 undefined on input line 51.
-
-
-LaTeX Warning: Reference `fig:Fig2.6' on page 19 undefined on input line 51.
-
-
-LaTeX Warning: Reference `fig:Fig2.6' on page 19 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Liu_723' on page 19 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'Liu_574' on page 19 undefined on input line 51.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 50--52
-
- []
-
-
-LaTeX Warning: Reference `fig:Fig2.7' on page 19 undefined on input line 54.
-
-
-LaTeX Warning: Reference `fig:Fig2.7' on page 19 undefined on input line 54.
-
-
-LaTeX Warning: Reference `fig:Fig2.7' on page 19 undefined on input line 54.
-
-
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
@@ -1429,29 +1007,21 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [20]
+Underfull \hbox (badness 10000) in paragraph at lines 50--52
 
-LaTeX Warning: Citation 'Grob_1281' on page 21 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Andel_2407' on page 21 undefined on input line 57.
+ []
 
 
-LaTeX Warning: Citation 'Grob_1281' on page 21 undefined on input line 57.
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-LaTeX Warning: Citation 'Liu_723' on page 21 undefined on input line 57.
+[21]
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-LaTeX Warning: Citation 'Liu_574' on page 21 undefined on input line 57.
-
-
-LaTeX Warning: Citation 'Liu_723' on page 21 undefined on input line 57.
-
-
-LaTeX Warning: Reference `fig:Fig2.3' on page 21 undefined on input line 57.
-
+[22]
 File: ../Ch2_figs/Fig2.7.eps Graphic file (type eps)
-<../Ch2_figs/Fig2.7.eps>
+ <../Ch2_figs/Fig2.7.eps>
 LaTeX Font Info:    Try loading font information for OML+cmr on input line 64.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/base/omlcmr.fd
@@ -1468,134 +1038,40 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--101
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[21]
+[23]
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[22]
+[24]
 \openout2 = `chap3.aux'.
 
  (./chap3.tex
-
-LaTeX Warning: Citation 'Stewart_2004' on page 23 undefined on input line 7.
-
-
-LaTeX Warning: Citation 'VanHeel_1987' on page 23 undefined on input line 8.
-
-
-LaTeX Warning: Citation 'Radermacher_1987' on page 23 undefined on input line 8
-.
-
-
-LaTeX Warning: Citation 'Leschziner_1228' on page 23 undefined on input line 8.
-
-
-
-LaTeX Warning: Citation 'DeRosier_1968' on page 23 undefined on input line 8.
-
 File: ../Ch3_figs/Fig3.1.eps Graphic file (type eps)
-<../Ch3_figs/Fig3.1.eps>
-
-LaTeX Warning: Citation 'Radermacher_1987' on page 23 undefined on input line 1
-5.
-
-
-LaTeX Warning: Citation 'Frank_1996' on page 23 undefined on input line 15.
-
-
-LaTeX Warning: Reference `fig:Fig3.1' on page 23 undefined on input line 16.
-
-
-LaTeX Warning: Citation 'Leschziner_1228' on page 23 undefined on input line 16
-.
-
-
-LaTeX Warning: Citation 'Leschziner_452' on page 23 undefined on input line 16.
-
-
-
-LaTeX Warning: Reference `fig:Fig3.1' on page 23 undefined on input line 16.
-
-
-LaTeX Warning: Citation 'Scheres_2009' on page 23 undefined on input line 16.
-
-
+ <../Ch3_figs/Fig3.1.eps>
 Underfull \hbox (badness 10000) in paragraph at lines 7--17
 
  []
 
-[23
+[25
 
 
 
 ]
 File: ../Ch3_figs/Fig3.2.eps Graphic file (type eps)
  <../Ch3_figs/Fig3.2.eps>
-
-LaTeX Warning: Reference `fig:Fig3.2' on page 24 undefined on input line 25.
-
-
-LaTeX Warning: Reference `fig:Fig3.3' on page 24 undefined on input line 25.
-
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ò in font cmr12!
-
-LaTeX Warning: Citation 'Chandramouli_280' on page 24 undefined on input line 2
-5.
-
-
-LaTeX Warning: Reference `fig:Fig3.3' on page 24 undefined on input line 25.
-
-
-LaTeX Warning: Reference `fig:Fig3.3' on page 24 undefined on input line 25.
-
-
-LaTeX Warning: Reference `fig:Fig3.3' on page 24 undefined on input line 25.
-
-
-LaTeX Warning: Citation 'Saxton_3960' on page 24 undefined on input line 25.
-
-
-LaTeX Warning: Reference `fig:Fig3.3' on page 24 undefined on input line 25.
-
-
-LaTeX Warning: Reference `fig:Fig3.3' on page 24 undefined on input line 25.
-
-
-LaTeX Warning: Reference `fig:Fig3.3' on page 24 undefined on input line 25.
-
-
-LaTeX Warning: Reference `fig:Fig3.4' on page 24 undefined on input line 26.
-
-
-LaTeX Warning: Reference `fig:Fig2.2' on page 24 undefined on input line 26.
-
-
-LaTeX Warning: Reference `fig:Fig3.4' on page 24 undefined on input line 26.
-
-
-LaTeX Warning: Reference `fig:Fig3.4' on page 24 undefined on input line 26.
-
-
-LaTeX Warning: Reference `fig:Fig3.4' on page 24 undefined on input line 26.
-
 File: ../Ch3_figs/Fig3.3.eps Graphic file (type eps)
-<../Ch3_figs/Fig3.3.eps>
+ <../Ch3_figs/Fig3.3.eps>
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ì in font cmr12!
-
-
-LaTeX Warning: Citation 'Grob_1281' on page 24 undefined on input line 30.
-
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ì in font cmr12!
-
-LaTeX Warning: Citation 'Grob_1281' on page 24 undefined on input line 30.
-
 File: ../Ch3_figs/Fig3.4.eps Graphic file (type eps)
+
 <../Ch3_figs/Fig3.4.eps>
 
 LaTeX Warning: Float too large for page by 1.9021pt on input line 38.
@@ -1604,59 +1080,7 @@ LaTeX Warning: Float too large for page by 1.9021pt on input line 38.
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[24]
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[25]
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
 [26]
-
-LaTeX Warning: Reference `fig:Fig2.6' on page 27 undefined on input line 42.
-
-
-LaTeX Warning: Reference `fig:Fig3.5' on page 27 undefined on input line 42.
-
-
-LaTeX Warning: Reference `fig:Fig3.5' on page 27 undefined on input line 42.
-
-File: ../Ch3_figs/Fig3.5.eps Graphic file (type eps)
-<../Ch3_figs/Fig3.5.eps>
-
-LaTeX Warning: Reference `fig:Fig3.5' on page 27 undefined on input line 49.
-
-
-LaTeX Warning: Citation 'Grob_1281' on page 27 undefined on input line 49.
-
-
-LaTeX Warning: Citation 'Liu_574' on page 27 undefined on input line 49.
-
-
-LaTeX Warning: Reference `fig:Fig3.5' on page 27 undefined on input line 49.
-
-
-LaTeX Warning: Reference `fig:Fig3.5' on page 27 undefined on input line 49.
-
-
-LaTeX Warning: Reference `fig:Fig3.5' on page 27 undefined on input line 49.
-
-
-LaTeX Warning: Reference `fig:Fig3.5' on page 27 undefined on input line 50.
-
-
-LaTeX Warning: Reference `fig:Fig3.5' on page 27 undefined on input line 50.
-
-
-LaTeX Warning: Reference `fig:Fig3.5' on page 27 undefined on input line 50.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 42--51
-
- []
-
-
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
@@ -1665,6 +1089,13 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [28]
+File: ../Ch3_figs/Fig3.5.eps Graphic file (type eps)
+ <../Ch3_figs/Fig3.5.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 42--51
+
+ []
+
+
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
@@ -1673,97 +1104,6 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [30]
-
-LaTeX Warning: Reference `fig:Compare' on page 31 undefined on input line 54.
-
-
-LaTeX Warning: Citation 'Elmlund_691' on page 31 undefined on input line 54.
-
-
-LaTeX Warning: Citation 'Leurent_1554' on page 31 undefined on input line 54.
-
-
-LaTeX Warning: Citation 'Leurent_1797' on page 31 undefined on input line 54.
-
-
-LaTeX Warning: Citation 'Papai_539' on page 31 undefined on input line 54.
-
-
-LaTeX Warning: Citation 'Elmlund_691' on page 31 undefined on input line 54.
-
-
-LaTeX Warning: Citation 'Papai_418' on page 31 undefined on input line 54.
-
-
-LaTeX Warning: Reference `fig:Fig3.6' on page 31 undefined on input line 54.
-
-
-LaTeX Warning: Citation 'Rosenthal_2003' on page 31 undefined on input line 54.
-
-
-
-LaTeX Warning: Citation 'Rosenthal_2003' on page 31 undefined on input line 54.
-
-
-
-LaTeX Warning: Reference `fig:Fig3.6' on page 31 undefined on input line 54.
-
-
-LaTeX Warning: Citation 'Baker_2012' on page 31 undefined on input line 54.
-
-
-LaTeX Warning: Citation 'Henderson_2011' on page 31 undefined on input line 54.
-
-
-
-LaTeX Warning: Citation 'Lau_2010' on page 31 undefined on input line 54.
-
-
-LaTeX Warning: Citation 'Rosenthal_2003' on page 31 undefined on input line 54.
-
-
-
-LaTeX Warning: Citation 'Brunger_1992' on page 31 undefined on input line 54.
-
-File: ../Ch3_figs/Fig3.6.eps Graphic file (type eps)
-<../Ch3_figs/Fig3.6.eps>
-Missing character: There is no ¬ in font cmr12!
-Missing character: There is no ∞ in font cmr12!
-Missing character: There is no ¬ in font cmr12!
-Missing character: There is no ∞ in font cmr12!
-
-
-LaTeX Warning: Float too large for page by 24.12567pt on input line 60.
-
-
-Overfull \hbox (37.06267pt too wide) in paragraph at lines 54--61
-[]\OT1/cmr/m/n/12 , []] and the struc-ture that TFIID adopts on pro-moter DNA [
-[],
- []
-
-
-Overfull \hbox (38.35074pt too wide) in paragraph at lines 54--61
-\OT1/cmr/m/n/12 free-hand test was per-formed on cryo-EM data of TFIID-TFIIA-SC
-P (Fig-ure []) [[]].
- []
-
-
-LaTeX Warning: Reference `fig:Fig3.6' on page 31 undefined on input line 64.
-
-
-LaTeX Warning: Citation 'Lander_2012' on page 31 undefined on input line 64.
-
-
-LaTeX Warning: Reference `fig:Fig3.7' on page 31 undefined on input line 64.
-
-
-LaTeX Warning: Reference `fig:Fig3.7' on page 31 undefined on input line 64.
-
-
-LaTeX Warning: Citation 'Lander_2012' on page 31 undefined on input line 64.
-
-File: ../Ch3_figs/Fig3.7.eps Graphic file (type eps)
-<../Ch3_figs/Fig3.7.eps>
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
@@ -1772,94 +1112,28 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [32]
-File: ../Ch3_figs/Fig3.8.eps Graphic file (type eps)
- <../Ch3_figs/Fig3.8.eps>
+File: ../Ch3_figs/Fig3.6.eps Graphic file (type eps)
+ <../Ch3_figs/Fig3.6.eps>
+Missing character: There is no ¬ in font cmr12!
+Missing character: There is no ∞ in font cmr12!
+Missing character: There is no ¬ in font cmr12!
+Missing character: There is no ∞ in font cmr12!
+
+
+LaTeX Warning: Float too large for page by 24.12567pt on input line 60.
+
+File: ../Ch3_figs/Fig3.7.eps Graphic file (type eps)
+<../Ch3_figs/Fig3.7.eps>
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [33]
-
-LaTeX Warning: Reference `fig:Fig3.5' on page 34 undefined on input line 80.
-
-
-LaTeX Warning: Reference `fig:Fig3.8' on page 34 undefined on input line 80.
-
-
-LaTeX Warning: Reference `fig:Fig3.8' on page 34 undefined on input line 80.
-
-
-LaTeX Warning: Reference `fig:Fig3.8' on page 34 undefined on input line 80.
-
-
-LaTeX Warning: Reference `fig:Fig3.8' on page 34 undefined on input line 81.
-
-
-LaTeX Warning: Reference `fig:Fig3.5' on page 34 undefined on input line 81.
-
-
-LaTeX Warning: Citation 'Baker_2012' on page 34 undefined on input line 81.
-
-
-LaTeX Warning: Citation 'Henderson_2011' on page 34 undefined on input line 81.
-
-
-
-LaTeX Warning: Citation 'Lau_2010' on page 34 undefined on input line 81.
-
-
-LaTeX Warning: Reference `fig:Fig2.6' on page 34 undefined on input line 81.
-
-
-LaTeX Warning: Citation 'Elmlund_691' on page 34 undefined on input line 81.
-
-
-LaTeX Warning: Citation 'Leurent_1554' on page 34 undefined on input line 81.
-
-
-LaTeX Warning: Citation 'Leurent_1797' on page 34 undefined on input line 81.
-
-
-LaTeX Warning: Citation 'Papai_539' on page 34 undefined on input line 81.
-
-
-LaTeX Warning: Citation 'Papai_418' on page 34 undefined on input line 81.
-
-
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [34]
-File: ../Ch3_figs/Fig3.12.eps Graphic file (type eps)
- <../Ch3_figs/Fig3.12.eps>
-
-LaTeX Warning: Reference `fig:Fig3.12' on page 35 undefined on input line 98.
-
-
-LaTeX Warning: Reference `fig:Fig3.12' on page 35 undefined on input line 98.
-
-
-LaTeX Warning: Reference `fig:Fig3.12' on page 35 undefined on input line 98.
-
-File: ../Ch3_figs/Fig3.13.eps Graphic file (type eps)
-<../Ch3_figs/Fig3.13.eps>
-
-LaTeX Warning: Reference `fig:Fig3.13' on page 35 undefined on input line 105.
-
-
-LaTeX Warning: Reference `fig:Fig3.13' on page 35 undefined on input line 105.
-
-
-LaTeX Warning: Reference `fig:Fig3.13' on page 35 undefined on input line 105.
-
-
-LaTeX Warning: Reference `fig:Fig3.13' on page 35 undefined on input line 105.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 98--106
-
- []
-
-
+File: ../Ch3_figs/Fig3.8.eps Graphic file (type eps)
+ <../Ch3_figs/Fig3.8.eps>
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
@@ -1868,27 +1142,11 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [36]
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[37]
-File: ../Ch3_figs/Fig3.14.eps Graphic file (type eps)
- <../Ch3_figs/Fig3.14.eps>
-
-LaTeX Warning: Citation 'Bleichenbacher_2003' on page 38 undefined on input lin
-e 114.
-
-
-LaTeX Warning: Reference `fig:Fig3.14' on page 38 undefined on input line 114.
-
-
-LaTeX Warning: Reference `fig:Fig3.14' on page 38 undefined on input line 114.
-
-
-LaTeX Warning: Reference `fig:Fig3.14' on page 38 undefined on input line 114.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 114--115
+File: ../Ch3_figs/Fig3.12.eps Graphic file (type eps)
+ <../Ch3_figs/Fig3.12.eps>
+File: ../Ch3_figs/Fig3.13.eps Graphic file (type eps)
+ <../Ch3_figs/Fig3.13.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 98--106
 
  []
 
@@ -1896,58 +1154,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 114--115
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
+[37]
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
 [38]
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[39]
+File: ../Ch3_figs/Fig3.14.eps Graphic file (type eps)
+ <../Ch3_figs/Fig3.14.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+
+ []
+
 File: ../Ch3_figs/Fig3.15.eps Graphic file (type eps)
- <../Ch3_figs/Fig3.15.eps>
-
-LaTeX Warning: Reference `fig:Fig3.15' on page 39 undefined on input line 123.
-
-
-LaTeX Warning: Reference `fig:Fig3.15' on page 39 undefined on input line 123.
-
-
+<../Ch3_figs/Fig3.15.eps>
 Underfull \hbox (badness 10000) in paragraph at lines 123--124
 
  []
 
 
-LaTeX Warning: Reference `fig:Fig3.17' on page 39 undefined on input line 128.
-
-
-LaTeX Warning: Reference `fig:Fig3.17' on page 39 undefined on input line 128.
-
-File: ../Ch3_figs/Fig3.17.eps Graphic file (type eps)
-<../Ch3_figs/Fig3.17.eps>
-
-LaTeX Warning: Reference `fig:Fig3.16' on page 39 undefined on input line 132.
-
-
-LaTeX Warning: Reference `fig:Fig3.16' on page 39 undefined on input line 132.
-
-
-LaTeX Warning: Reference `fig:Fig3.16' on page 39 undefined on input line 135.
-
-
-LaTeX Warning: Reference `fig:Fig3.16' on page 39 undefined on input line 135.
-
-
-LaTeX Warning: Reference `fig:Fig3.17' on page 39 undefined on input line 135.
-
-
-LaTeX Warning: Reference `fig:Fig3.17' on page 39 undefined on input line 135.
-
-
-LaTeX Warning: Reference `fig:Fig3.16' on page 39 undefined on input line 136.
-
-
-LaTeX Warning: Reference `fig:Fig3.17' on page 39 undefined on input line 136.
-
-File: ../Ch3_figs/Fig3.16.eps Graphic file (type eps)
-<../Ch3_figs/Fig3.16.eps>
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[39]
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
@@ -1956,124 +1184,14 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [41]
-
-LaTeX Warning: Reference `fig:Fig3.16' on page 42 undefined on input line 145.
-
-
-LaTeX Warning: Reference `fig:Fig3.16' on page 42 undefined on input line 145.
-
-
-LaTeX Warning: Reference `fig:Fig3.16' on page 42 undefined on input line 145.
-
-
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [42]
-File: ../Ch3_figs/Fig3.18.eps Graphic file (type eps)
- <../Ch3_figs/Fig3.18.eps>
-
-LaTeX Warning: Reference `fig:Fig3.3' on page 43 undefined on input line 154.
-
-
-LaTeX Warning: Reference `fig:Fig3.5' on page 43 undefined on input line 154.
-
-
-LaTeX Warning: Reference `fig:Fig3.8' on page 43 undefined on input line 154.
-
-
-LaTeX Warning: Reference `fig:Fig3.18' on page 43 undefined on input line 155.
-
-
-LaTeX Warning: Reference `fig:Fig3.16' on page 43 undefined on input line 155.
-
-
-LaTeX Warning: Reference `fig:Fig3.18' on page 43 undefined on input line 155.
-
-
-LaTeX Warning: Citation 'Burke_2739' on page 43 undefined on input line 155.
-
-
-LaTeX Warning: Citation 'Theisen_341' on page 43 undefined on input line 155.
-
-
-LaTeX Warning: Citation 'Xie_2805' on page 43 undefined on input line 155.
-
-
-LaTeX Warning: Citation 'Shao_1340' on page 43 undefined on input line 155.
-
-
-LaTeX Warning: Reference `fig:Fig3.18' on page 43 undefined on input line 156.
-
-
-LaTeX Warning: Citation 'Chalkley_2339' on page 43 undefined on input line 156.
-
-
-
-LaTeX Warning: Citation 'Wright_1170' on page 43 undefined on input line 157.
-
-
-LaTeX Warning: Reference `fig:Fig3.18' on page 43 undefined on input line 158.
-
-
-LaTeX Warning: Reference `fig:Fig3.16' on page 43 undefined on input line 159.
-
-
-LaTeX Warning: Reference `fig:Fig3.19' on page 43 undefined on input line 159.
-
-
-LaTeX Warning: Reference `fig:Fig3.16' on page 43 undefined on input line 159.
-
-File: ../Ch3_figs/Fig3.19.eps Graphic file (type eps)
-<../Ch3_figs/Fig3.19.eps>
-
-LaTeX Warning: Citation 'Jadzinsky_2007' on page 43 undefined on input line 163
-.
-
-
-LaTeX Warning: Citation 'Jadzinsky_2007' on page 43 undefined on input line 163
-.
-
-
-LaTeX Warning: Reference `fig:Fig3.19' on page 43 undefined on input line 166.
-
-
-LaTeX Warning: Reference `fig:Fig3.19' on page 43 undefined on input line 166.
-
-
-LaTeX Warning: Citation 'Kim_3377' on page 43 undefined on input line 166.
-
-
-LaTeX Warning: Citation 'Kim_3416' on page 43 undefined on input line 166.
-
-
-LaTeX Warning: Reference `fig:Fig3.19' on page 43 undefined on input line 166.
-
-
-LaTeX Warning: Reference `fig:Fig3.5' on page 43 undefined on input line 167.
-
-
-LaTeX Warning: Reference `fig:Fig3.8' on page 43 undefined on input line 167.
-
-
-LaTeX Warning: Citation 'Milazzo_2011' on page 43 undefined on input line 167.
-
-
-LaTeX Warning: Citation 'Campell_2012' on page 43 undefined on input line 167.
-
-
-LaTeX Warning: Citation 'Hall_2011' on page 43 undefined on input line 167.
-
-
-LaTeX Warning: Citation 'Nagayama_2011' on page 43 undefined on input line 167.
-
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 154--168
-
- []
-
-
+File: ../Ch3_figs/Fig3.17.eps Graphic file (type eps)
+ <../Ch3_figs/Fig3.17.eps>
+File: ../Ch3_figs/Fig3.16.eps Graphic file (type eps)
+ <../Ch3_figs/Fig3.16.eps>
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
@@ -2085,7 +1203,20 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[45])
+[45]
+File: ../Ch3_figs/Fig3.18.eps Graphic file (type eps)
+ <../Ch3_figs/Fig3.18.eps>
+File: ../Ch3_figs/Fig3.19.eps Graphic file (type eps)
+ <../Ch3_figs/Fig3.19.eps>
+
+LaTeX Warning: Citation 'Hall_2011' on page 46 undefined on input line 167.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--168
+
+ []
+
+
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
@@ -2094,42 +1225,31 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [47]
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[48]
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[49])
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[50]
 \openout2 = `chap4.aux'.
 
  (./chap4.tex
-
-LaTeX Warning: Reference `fig:Fig4.13' on page 48 undefined on input line 4.
-
 File: ../Ch4_figs/Fig4.1.eps Graphic file (type eps)
-<../Ch4_figs/Fig4.1.eps>
+ <../Ch4_figs/Fig4.1.eps>
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ì in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ì in font cmr12!
-
-
-LaTeX Warning: Reference `fig:Fig4.1' on page 48 undefined on input line 14.
-
-
-LaTeX Warning: Citation 'Juven-Gershon_1249' on page 48 undefined on input line
- 14.
-
-
-LaTeX Warning: Reference `fig:Fig4.1' on page 48 undefined on input line 14.
-
-
-LaTeX Warning: Reference `fig:Fig4.2' on page 48 undefined on input line 14.
-
-
-LaTeX Warning: Reference `fig:Fig4.1' on page 48 undefined on input line 14.
-
-
-LaTeX Warning: Reference `fig:Fig4.1' on page 48 undefined on input line 14.
-
 File: ../Ch4_figs/Fig4.2.eps Graphic file (type eps)
-<../Ch4_figs/Fig4.2.eps>
+ <../Ch4_figs/Fig4.2.eps>
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
@@ -2148,74 +1268,21 @@ Missing character: There is no ô in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
-
-
-LaTeX Warning: Citation 'Hertzberg_3897' on page 48 undefined on input line 21.
-
-
-
-LaTeX Warning: Citation 'Papavassiliou_3156' on page 48 undefined on input line
- 21.
-
-
-LaTeX Warning: Citation 'Va_3928' on page 48 undefined on input line 21.
-
-
-LaTeX Warning: Reference `fig:Fig4.1' on page 48 undefined on input line 21.
-
-
-LaTeX Warning: Reference `fig:Fig4.2' on page 48 undefined on input line 21.
-
-
-LaTeX Warning: Citation 'Geiger_2949' on page 48 undefined on input line 21.
-
-
-LaTeX Warning: Citation 'Kim_3377' on page 48 undefined on input line 21.
-
-
-LaTeX Warning: Citation 'Kim_3416' on page 48 undefined on input line 21.
-
-
-LaTeX Warning: Citation 'Nikolov_3177' on page 48 undefined on input line 21.
-
-
-LaTeX Warning: Citation 'Uchida_3659' on page 48 undefined on input line 21.
-
-
-LaTeX Warning: Reference `fig:Fig4.1' on page 48 undefined on input line 21.
-
 File: ../Ch4_figs/Fig4.4.eps Graphic file (type eps)
+
 <../Ch4_figs/Fig4.4.eps>
-
-LaTeX Warning: Reference `fig:Fig4.1' on page 48 undefined on input line 25.
-
-
-LaTeX Warning: Reference `fig:Fig4.1' on page 48 undefined on input line 25.
-
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
-
-LaTeX Warning: Reference `fig:Fig4.1' on page 48 undefined on input line 28.
-
-
-LaTeX Warning: Reference `fig:Fig4.4' on page 48 undefined on input line 28.
-
-
-LaTeX Warning: Reference `fig:Fig4.1' on page 48 undefined on input line 29.
-
-
-LaTeX Warning: Reference `fig:Fig4.4' on page 48 undefined on input line 30.
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 13--31
 
  []
 
-[48
+[51
 
 
 
@@ -2223,19 +1290,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--31
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[49]
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[50]
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[51]
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
 [52]
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[53]
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[54]
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[55]
 File: ../Ch4_figs/Fig4.7.eps Graphic file (type eps)
  <../Ch4_figs/Fig4.7.eps>
 Missing character: There is no ‚ in font cmr12!
@@ -2282,87 +1349,15 @@ Missing character: There is no ò in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
-
-
-LaTeX Warning: Citation 'Juven-Gershon_468' on page 53 undefined on input line 
-45.
-
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ò in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
-
-LaTeX Warning: Reference `fig:Fig4.7' on page 53 undefined on input line 45.
-
-
-LaTeX Warning: Citation 'Juven-Gershon_1249' on page 53 undefined on input line
- 45.
-
-
-LaTeX Warning: Reference `fig:Fig4.8' on page 53 undefined on input line 45.
-
-
-LaTeX Warning: Reference `fig:Fig4.6' on page 53 undefined on input line 45.
-
-
-LaTeX Warning: Reference `fig:Fig4.7' on page 53 undefined on input line 46.
-
-
-LaTeX Warning: Citation 'Juven-Gershon_1249' on page 53 undefined on input line
- 46.
-
 File: ../Ch4_figs/Fig4.6.eps Graphic file (type eps)
+
 <../Ch4_figs/Fig4.6.eps>
-
-LaTeX Warning: Reference `fig:Fig4.7' on page 53 undefined on input line 53.
-
-
-LaTeX Warning: Citation 'Thomas_1201' on page 53 undefined on input line 53.
-
-
-LaTeX Warning: Citation 'Sawadogo_3840' on page 53 undefined on input line 53.
-
-
-LaTeX Warning: Citation 'Va_3783' on page 53 undefined on input line 53.
-
-
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[53]
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[54]
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[55]
-
-LaTeX Warning: Reference `fig:Fig4.5' on page 56 undefined on input line 58.
-
-
-LaTeX Warning: Reference `fig:Fig4.5' on page 56 undefined on input line 59.
-
-
-LaTeX Warning: Reference `fig:Fig4.5' on page 56 undefined on input line 59.
-
-
-LaTeX Warning: Reference `fig:Fig4.5' on page 56 undefined on input line 59.
-
-
-LaTeX Warning: Reference `fig:Fig4.5' on page 56 undefined on input line 60.
-
-
-LaTeX Warning: Reference `fig:Fig4.5' on page 56 undefined on input line 60.
-
-
-LaTeX Warning: Reference `fig:Fig4.5' on page 56 undefined on input line 61.
-
-File: ../Ch4_figs/Fig4.5.eps Graphic file (type eps)
-<../Ch4_figs/Fig4.5.eps>
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
@@ -2371,78 +1366,12 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [57]
-
-LaTeX Warning: Reference `fig:Fig4.9' on page 58 undefined on input line 71.
-
-
-LaTeX Warning: Reference `fig:Fig4.9' on page 58 undefined on input line 71.
-
-File: ../Ch4_figs/Fig4.9.eps Graphic file (type eps)
-<../Ch4_figs/Fig4.9.eps>
-
-LaTeX Warning: Reference `fig:Fig4.11' on page 58 undefined on input line 78.
-
-
-LaTeX Warning: Reference `fig:Fig4.11' on page 58 undefined on input line 78.
-
-File: ../Ch4_figs/Fig4.11.eps Graphic file (type eps)
-<../Ch4_figs/Fig4.11.eps>
-
-LaTeX Warning: Reference `fig:Fig4.11' on page 58 undefined on input line 85.
-
-
-LaTeX Warning: Citation 'Juven-Gershon_1249' on page 58 undefined on input line
- 85.
-
-
-LaTeX Warning: Citation 'Deng_2005' on page 58 undefined on input line 85.
-
-
-LaTeX Warning: Citation 'Tsai_2000' on page 58 undefined on input line 85.
-
-
-LaTeX Warning: Citation 'Juven-Gershon_1249' on page 58 undefined on input line
- 85.
-
-File: ../Ch4_figs/4.12.eps Graphic file (type eps)
-<../Ch4_figs/4.12.eps>
-
-LaTeX Warning: Reference `fig:Fig4.12' on page 58 undefined on input line 92.
-
-
-LaTeX Warning: Reference `fig:Fig4.11' on page 58 undefined on input line 92.
-
-
-LaTeX Warning: Citation 'Tsai_2000' on page 58 undefined on input line 92.
-
-
-LaTeX Warning: Reference `fig:Fig4.8' on page 58 undefined on input line 92.
-
-
-LaTeX Warning: Reference `fig:IIB_cryo' on page 58 undefined on input line 93.
-
-
-LaTeX Warning: Reference `fig:Fig3.17' on page 58 undefined on input line 94.
-
-
-LaTeX Warning: Reference `fig:IIB_cryo' on page 58 undefined on input line 94.
-
-
-LaTeX Warning: Reference `fig:Fig4.11' on page 58 undefined on input line 94.
-
-File: ../Ch4_figs/IID_IIA_IIB_SCP_fig.eps Graphic file (type eps)
-<../Ch4_figs/IID_IIA_IIB_SCP_fig.eps>
-
-LaTeX Warning: Reference `fig:Fig3.18' on page 58 undefined on input line 98.
-
-
-LaTeX Warning: Reference `fig:Fig3.18' on page 58 undefined on input line 98.
-
-
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [58]
+File: ../Ch4_figs/Fig4.5.eps Graphic file (type eps)
+ <../Ch4_figs/Fig4.5.eps>
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
@@ -2451,6 +1380,15 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [60]
+File: ../Ch4_figs/Fig4.9.eps Graphic file (type eps)
+ <../Ch4_figs/Fig4.9.eps>
+File: ../Ch4_figs/Fig4.11.eps Graphic file (type eps)
+ <../Ch4_figs/Fig4.11.eps>
+File: ../Ch4_figs/4.12.eps Graphic file (type eps)
+ <../Ch4_figs/4.12.eps>
+File: ../Ch4_figs/IID_IIA_IIB_SCP_fig.eps Graphic file (type eps)
+
+<../Ch4_figs/IID_IIA_IIB_SCP_fig.eps>
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
@@ -2463,6 +1401,18 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [63]
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[64]
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[65]
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[66]
 File: ../Ch4_figs/Fig4.13.eps Graphic file (type eps)
  <../Ch4_figs/Fig4.13.eps>
 
@@ -2472,165 +1422,17 @@ LaTeX Warning: Float too large for page by 2.24953pt on input line 108.
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[64]
+[67]
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[65]
-
-LaTeX Warning: Reference `fig:Fig4.13' on page 66 undefined on input line 110.
-
-
-LaTeX Warning: Reference `fig:Fig4.15' on page 66 undefined on input line 110.
-
-
-LaTeX Warning: Reference `fig:Fig4.13' on page 66 undefined on input line 110.
-
-
-LaTeX Warning: Reference `fig:Fig4.14' on page 66 undefined on input line 110.
-
-
-LaTeX Warning: Reference `fig:Fig4.15' on page 66 undefined on input line 110.
-
-
+[68]
 Underfull \hbox (badness 10000) in paragraph at lines 110--111
 
  []
 
 
-LaTeX Warning: Reference `fig:Fig4.13' on page 66 undefined on input line 114.
-
-
-LaTeX Warning: Reference `fig:Fig2.3' on page 66 undefined on input line 114.
-
-
-LaTeX Warning: Reference `fig:Fig2.4' on page 66 undefined on input line 114.
-
-
-LaTeX Warning: Reference `fig:Fig2.5' on page 66 undefined on input line 114.
-
-
-LaTeX Warning: Reference `fig:Fig4.13' on page 66 undefined on input line 114.
-
-
-LaTeX Warning: Reference `fig:Fig4.13' on page 66 undefined on input line 114.
-
-
-LaTeX Warning: Reference `fig:Fig4.13' on page 66 undefined on input line 114.
-
-
-LaTeX Warning: Reference `fig:Fig2.6' on page 66 undefined on input line 115.
-
-
-LaTeX Warning: Reference `fig:Fig4.1' on page 66 undefined on input line 115.
-
-
-LaTeX Warning: Reference `fig:Fig4.13' on page 66 undefined on input line 115.
-
-
-LaTeX Warning: Reference `fig:Fig4.1' on page 66 undefined on input line 115.
-
-
-LaTeX Warning: Citation 'Bagby_2202' on page 66 undefined on input line 115.
-
-
-LaTeX Warning: Citation 'Geiger_2949' on page 66 undefined on input line 115.
-
-
-LaTeX Warning: Citation 'Liu_2574' on page 66 undefined on input line 115.
-
-
-LaTeX Warning: Reference `fig:Fig4.13' on page 66 undefined on input line 116.
-
-
-LaTeX Warning: Reference `fig:Fig2.6' on page 66 undefined on input line 116.
-
-
-LaTeX Warning: Reference `fig:Fig2.6' on page 66 undefined on input line 117.
-
-
-LaTeX Warning: Reference `fig:Fig2.7' on page 66 undefined on input line 117.
-
-
-LaTeX Warning: Reference `fig:Fig4.13' on page 66 undefined on input line 117.
-
-
-LaTeX Warning: Reference `fig:Fig4.13' on page 66 undefined on input line 117.
-
-
-LaTeX Warning: Reference `fig:Fig4.13' on page 66 undefined on input line 117.
-
-
-LaTeX Warning: Reference `fig:Fig4.13' on page 66 undefined on input line 117.
-
-
-LaTeX Warning: Reference `fig:Fig3.16' on page 66 undefined on input line 117.
-
-
-LaTeX Warning: Reference `fig:Fig4.5' on page 66 undefined on input line 117.
-
-
-LaTeX Warning: Reference `fig:Fig4.5' on page 66 undefined on input line 117.
-
-
-LaTeX Warning: Reference `fig:Fig4.13' on page 66 undefined on input line 117.
-
-
-LaTeX Warning: Reference `fig:Fig4.13' on page 66 undefined on input line 117.
-
-
-LaTeX Warning: Reference `fig:Fig4.13' on page 66 undefined on input line 117.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 114--118
-
- []
-
-
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[66]
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[67]
-File: ../Ch4_figs/Fig4.14.eps Graphic file (type eps)
- <../Ch4_figs/Fig4.14.eps>
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[68]
-
-LaTeX Warning: Citation 'Juven-Gershon_468' on page 69 undefined on input line 
-128.
-
-
-LaTeX Warning: Reference `fig:Fig4.7' on page 69 undefined on input line 128.
-
-
-LaTeX Warning: Reference `fig:Fig4.14' on page 69 undefined on input line 128.
-
-
-LaTeX Warning: Reference `fig:Fig4.7' on page 69 undefined on input line 128.
-
-
-LaTeX Warning: Reference `fig:Fig4.8' on page 69 undefined on input line 128.
-
-
-LaTeX Warning: Reference `fig:Fig4.14' on page 69 undefined on input line 128.
-
-
-LaTeX Warning: Reference `fig:Fig4.14' on page 69 undefined on input line 129.
-
-
-LaTeX Warning: Reference `fig:Fig4.12' on page 69 undefined on input line 130.
-
-
-LaTeX Warning: Citation 'Rhee_24' on page 69 undefined on input line 130.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 128--131
 
  []
 
@@ -2643,110 +1445,17 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [70]
-File: ../Ch4_figs/Fig4.15.eps Graphic file (type eps)
- <../Ch4_figs/Fig4.15.eps>
-
-LaTeX Warning: Reference `fig:Fig4.7' on page 71 undefined on input line 141.
-
-
-LaTeX Warning: Reference `fig:Fig4.15' on page 71 undefined on input line 141.
-
-
-LaTeX Warning: Reference `fig:Fig4.7' on page 71 undefined on input line 141.
-
-
-LaTeX Warning: Reference `fig:Fig4.15' on page 71 undefined on input line 141.
-
-
-LaTeX Warning: Reference `fig:Fig4.15' on page 71 undefined on input line 141.
-
-
-LaTeX Warning: Reference `fig:Fig4.15' on page 71 undefined on input line 141.
-
-
-LaTeX Warning: Reference `fig:Fig4.7' on page 71 undefined on input line 142.
-
-
-LaTeX Warning: Citation 'Goodrich_503' on page 71 undefined on input line 142.
-
-
-LaTeX Warning: Citation 'Levine_1710' on page 71 undefined on input line 142.
-
-
-LaTeX Warning: Citation 'Jacobson_2000' on page 71 undefined on input line 142.
-
-
-
-LaTeX Warning: Citation 'Vermeulen_2007' on page 71 undefined on input line 142
-.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 141--143
-
- []
-
-File: ../Ch4_figs/BentDNA_mdoels.eps Graphic file (type eps)
-<../Ch4_figs/BentDNA_mdoels.eps>
-
-LaTeX Warning: Reference `fig:Fig4.4' on page 71 undefined on input line 153.
-
-
-LaTeX Warning: Citation 'Burke_3081' on page 71 undefined on input line 153.
-
-
-LaTeX Warning: Citation 'Kutach_2124' on page 71 undefined on input line 153.
-
-
-LaTeX Warning: Citation 'Lim_1522' on page 71 undefined on input line 153.
-
-
-LaTeX Warning: Citation 'Parry_382' on page 71 undefined on input line 153.
-
-
-LaTeX Warning: Citation 'Purnell_3259' on page 71 undefined on input line 153.
-
-
-LaTeX Warning: Citation 'Theisen_341' on page 71 undefined on input line 153.
-
-
-LaTeX Warning: Citation 'Chi_3023' on page 71 undefined on input line 153.
-
-
-LaTeX Warning: Citation 'Juven-Gershon_1249' on page 71 undefined on input line
- 153.
-
-
-LaTeX Warning: Citation 'Kaufmann_3320' on page 71 undefined on input line 153.
-
-
-
-LaTeX Warning: Citation 'Lieberman_2671' on page 71 undefined on input line 153
-.
-
-
-LaTeX Warning: Citation 'Oelgeschlager_2880' on page 71 undefined on input line
- 153.
-
-
-LaTeX Warning: Reference `fig:BentDNA' on page 71 undefined on input line 154.
-
-
-LaTeX Warning: Citation 'Treutlein_2' on page 71 undefined on input line 154.
-
-
-LaTeX Warning: Citation 'Treutlein_2' on page 71 undefined on input line 154.
-
-
-LaTeX Warning: Citation 'Treutlein_2' on page 71 undefined on input line 154.
-
-
-LaTeX Warning: Reference `fig:BentDNA' on page 71 undefined on input line 154.
-
-)
+File: ../Ch4_figs/Fig4.14.eps Graphic file (type eps)
+ <../Ch4_figs/Fig4.14.eps>
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [71]
+Underfull \hbox (badness 10000) in paragraph at lines 128--131
+
+ []
+
+
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
@@ -2755,170 +1464,56 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [73]
+File: ../Ch4_figs/Fig4.15.eps Graphic file (type eps)
+ <../Ch4_figs/Fig4.15.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 141--143
+
+ []
+
+File: ../Ch4_figs/BentDNA_mdoels.eps Graphic file (type eps)
+<../Ch4_figs/BentDNA_mdoels.eps>)
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [74]
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[75]
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[76]
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[77]
 \openout2 = `concl.aux'.
 
- (./concl.tex
-
-LaTeX Warning: Citation 'Lander_614' on page 75 undefined on input line 3.
-
-) [75
+ (./concl.tex) [78
 
 
 
-] (./activators.tex) (./taf6.tex [76
+] (./activators.tex) (./taf6.tex [79
 
 
 ]
-
-LaTeX Warning: Citation 'Liu_723' on page 77 undefined on input line 9.
-
 File: ../Ch4_figs/Purification.eps Graphic file (type eps)
-<../Ch4_figs/Purification.eps>
 
-LaTeX Warning: Reference `fig:Purify' on page 77 undefined on input line 20.
+<../Ch4_figs/Purification.eps> [80
 
-
-LaTeX Warning: Reference `fig:Purify' on page 77 undefined on input line 20.
-
-[77
-
-] [78]
-
-LaTeX Warning: Citation 'Burke_2739' on page 79 undefined on input line 24.
-
-
-LaTeX Warning: Citation 'Lim_1522' on page 79 undefined on input line 24.
-
-
-LaTeX Warning: Reference `fig:Fig2.6' on page 79 undefined on input line 24.
-
-
-LaTeX Warning: Reference `fig:Fig2.5' on page 79 undefined on input line 24.
-
-
-LaTeX Warning: Reference `fig:TAF6' on page 79 undefined on input line 24.
-
-
-LaTeX Warning: Reference `fig:TAF6' on page 79 undefined on input line 24.
-
-
-LaTeX Warning: Reference `fig:Fig2.6' on page 79 undefined on input line 24.
-
-
-LaTeX Warning: Reference `fig:TAF6' on page 79 undefined on input line 25.
-
-
-LaTeX Warning: Reference `fig:TAF6' on page 79 undefined on input line 26.
-
+] [81]
 File: ../Ch4_figs/TAF6.eps Graphic file (type eps)
-<../Ch4_figs/TAF6.eps>
-
-LaTeX Warning: Reference `fig:Fig2.6' on page 79 undefined on input line 31.
-
-
-LaTeX Warning: Reference `fig:Fig2.6' on page 79 undefined on input line 31.
-
+ <../Ch4_figs/TAF6.eps>
 
 LaTeX Warning: Float too large for page by 32.00826pt on input line 33.
-
-
-LaTeX Warning: Citation 'Leurent_1554' on page 79 undefined on input line 38.
-
-
-LaTeX Warning: Citation 'Leurent_1797' on page 79 undefined on input line 38.
-
-
-LaTeX Warning: Citation 'Sanders_2002' on page 79 undefined on input line 38.
-
-
-LaTeX Warning: Citation 'Leurent_1554' on page 79 undefined on input line 38.
-
-
-LaTeX Warning: Citation 'Papai_191' on page 79 undefined on input line 38.
-
-
-LaTeX Warning: Citation 'Pereira_2004' on page 79 undefined on input line 39.
-
-
-LaTeX Warning: Citation 'Schultz_2000' on page 79 undefined on input line 39.
-
-
-LaTeX Warning: Citation 'Pereira_2004' on page 79 undefined on input line 39.
-
-
-LaTeX Warning: Citation 'Pereira_2004' on page 79 undefined on input line 39.
-
-
-LaTeX Warning: Citation 'Schultz_2000' on page 79 undefined on input line 40.
-
-
-LaTeX Warning: Citation 'Schultz_2000' on page 79 undefined on input line 40.
-
-
-LaTeX Warning: Citation 'Schultz_2000' on page 79 undefined on input line 40.
-
-
-LaTeX Warning: Citation 'Schultz_2000' on page 79 undefined on input line 40.
-
-
-LaTeX Warning: Citation 'Pereira_2004' on page 79 undefined on input line 41.
-
-
-LaTeX Warning: Citation 'Schultz_2000' on page 79 undefined on input line 41.
-
-
-LaTeX Warning: Citation 'Leurent_1554' on page 79 undefined on input line 41.
-
-
-LaTeX Warning: Citation 'Leurent_1797' on page 79 undefined on input line 41.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 37--43
 
  []
 
-[79] [80] [81]
-
-LaTeX Warning: Reference `fig:TAF6' on page 82 undefined on input line 49.
-
-
-LaTeX Warning: Citation 'Shao_1340' on page 82 undefined on input line 49.
-
-
-LaTeX Warning: Citation 'Shao_1340' on page 82 undefined on input line 49.
-
-
-LaTeX Warning: Citation 'Wright_1170' on page 82 undefined on input line 49.
-
-) (./methods.tex [82] [83]
-
-LaTeX Warning: Citation 'Grob_1281' on page 84 undefined on input line 9.
-
-
-LaTeX Warning: Citation 'Liu_574' on page 84 undefined on input line 9.
-
-
-LaTeX Warning: Citation 'Andel_2407' on page 84 undefined on input line 9.
-
-
-LaTeX Warning: Citation 'Naar_2527' on page 84 undefined on input line 9.
-
-
-LaTeX Warning: Citation 'Sun_3221' on page 84 undefined on input line 9.
-
-
-LaTeX Warning: Citation 'Liu_723' on page 84 undefined on input line 10.
-
-
-LaTeX Warning: Citation 'Naar_2527' on page 84 undefined on input line 10.
-
-
-LaTeX Warning: Citation 'Sun_3221' on page 84 undefined on input line 10.
-
+[82] [83] [84]) (./methods.tex [85] [86]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ì in font cmr12!
@@ -2927,32 +1522,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--12
 
  []
 
-[84
+[87
 
 ]
-
-LaTeX Warning: Citation 'Juven-Gershon_1249' on page 85 undefined on input line
- 15.
-
-
-LaTeX Warning: Citation 'Juven-Gershon_1249' on page 85 undefined on input line
- 15.
-
-
-Overfull \hbox (32.55602pt too wide) in paragraph at lines 15--17
-\OT1/cmr/m/n/12 quence of SCP1 [[]]: GTACT-TATATAAGGGGGTGGGGGCGCGTTCGTC-
+Overfull \hbox (2.65094pt too wide) in paragraph at lines 15--17
+\OT1/cmr/m/n/12 quence of SCP1 [40]: GTACT-TATATAAGGGGGTGGGGGCGCGTTCGTC-CTCAGTC
+GC-
  []
 
 
-Overfull \hbox (3.60275pt too wide) in paragraph at lines 15--17
-\OT1/cmr/m/n/12 CTCAGTCGC-GATC-GAA-CACTC-GAGC-C-GAGCAGACGTGCCTACGGACCG. For SCP
-(-
- []
-
-
-Overfull \hbox (11.85399pt too wide) in paragraph at lines 15--17
-\OT1/cmr/m/n/12 66), the fol-low-ing se-quence was added im-me-di-ately up-stre
-am of the SCP se-quence: CTCGCGC-
+Overfull \hbox (1.09581pt too wide) in paragraph at lines 15--17
+\OT1/cmr/m/n/12 GATC-GAA-CACTC-GAGC-C-GAGCAGACGTGCCTACGGACCG. For SCP(-66), the
+ fol-low-
  []
 
 
@@ -2960,139 +1541,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--17
 
  []
 
-[85]
-
-LaTeX Warning: Citation 'Suloway_1311' on page 86 undefined on input line 21.
-
-
-LaTeX Warning: Citation 'Ludtke_2307' on page 86 undefined on input line 25.
-
-
-LaTeX Warning: Citation 'Mindell_1684' on page 86 undefined on input line 25.
-
-
-LaTeX Warning: Citation 'Frank_2988' on page 86 undefined on input line 25.
-
-
-LaTeX Warning: Citation 'Lander_614' on page 86 undefined on input line 25.
-
-
-LaTeX Warning: Citation 'Chen_1041' on page 86 undefined on input line 25.
-
-
-LaTeX Warning: Citation 'Mindell_1684' on page 86 undefined on input line 25.
-
-
-LaTeX Warning: Citation 'Frank_2988' on page 86 undefined on input line 25.
-
-
-LaTeX Warning: Citation 'Sorzano_1492' on page 86 undefined on input line 25.
-
-
-LaTeX Warning: Citation 'Ogura_1656' on page 86 undefined on input line 26.
-
-
-LaTeX Warning: Citation 'va_2849' on page 86 undefined on input line 26.
-
-
-LaTeX Warning: Citation 'Hohn_913' on page 86 undefined on input line 27.
-
-
-LaTeX Warning: Citation 'Tang_849' on page 86 undefined on input line 27.
-
-
-LaTeX Warning: Citation 'Grigorieff_982' on page 86 undefined on input line 27.
-
-
-
-Overfull \hbox (5.9678pt too wide) in paragraph at lines 25--28
-\OT1/cmr/m/n/12 estimated us-ing CTFFIND3 [[]], and phase-flipped us-ing SPI-DE
-R [[]].
- []
-
-
+[88]
 Underfull \hbox (badness 10000) in paragraph at lines 25--28
 
  []
 
-[86]
-
-LaTeX Warning: Citation 'Leschziner_1228' on page 87 undefined on input line 30
-.
-
-
-LaTeX Warning: Citation 'Bradley_4010' on page 87 undefined on input line 31.
-
-
-LaTeX Warning: Citation 'Sorzano_1492' on page 87 undefined on input line 31.
-
+[89]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ò in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
-
-LaTeX Warning: Citation 'Ludtke_2307' on page 87 undefined on input line 31.
-
-
-LaTeX Warning: Citation 'Mindell_1684' on page 87 undefined on input line 31.
-
-
-LaTeX Warning: Citation 'va_2849' on page 87 undefined on input line 31.
-
-
-LaTeX Warning: Citation 'Leschziner_452' on page 87 undefined on input line 31.
-
-
-
-LaTeX Warning: Citation 'Frank_2988' on page 87 undefined on input line 31.
-
-
-LaTeX Warning: Citation 'Chandramouli_280' on page 87 undefined on input line 3
-2.
-
-
-LaTeX Warning: Citation 'Saxton_3960' on page 87 undefined on input line 32.
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 30--33
 
  []
 
-
-LaTeX Warning: Reference `fig:Fig2.5' on page 87 undefined on input line 35.
-
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ì in font cmr12!
-
-LaTeX Warning: Citation 'Ogura_1656' on page 87 undefined on input line 35.
-
-
-LaTeX Warning: Citation 'va_2849' on page 87 undefined on input line 35.
-
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ò in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
-
-LaTeX Warning: Citation 'va_2849' on page 87 undefined on input line 35.
-
-
-LaTeX Warning: Citation 'Ludtke_2307' on page 87 undefined on input line 36.
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 35--37
 
  []
 
-[87]
-
-LaTeX Warning: Citation 'Suloway_1311' on page 88 undefined on input line 40.
-
+[90]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ò in font cmr12!
@@ -3105,51 +1585,42 @@ Missing character: There is no ò in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
-
-LaTeX Warning: Citation 'Ludtke_2307' on page 88 undefined on input line 40.
-
-
-LaTeX Warning: Citation 'Sorzano_1492' on page 88 undefined on input line 40.
-
-
-LaTeX Warning: Citation 'va_2849' on page 88 undefined on input line 40.
-
 
 Overfull \hbox (8.65405pt too wide) in paragraph at lines 40--41
 \OT1/cmr/m/n/12 par-ti-cles), TFIID-IIA-SCP(Nanogold @ TATA) (851 par-ti-cles),
  and TFIID-IIA-SCP(Nanogold
  []
 
-[88]
+[91]) [92] [93
 
-LaTeX Warning: Citation 'Juven-Gershon_1249' on page 89 undefined on input line
- 44.
+] [94]
+Overfull \hbox (1.7451pt too wide) in paragraph at lines 111--111
+\OT1/cmr/m/n/12 pro-moter and the basal tran-scrip-tional ma-chin-ery''. In: \O
+T1/cmr/m/it/12 Dev Biol \OT1/cmr/m/n/12 339.2 (2010), pp. 225{
+ []
 
+[95] [96] [97] [98]
+Overfull \hbox (41.31955pt too wide) in paragraph at lines 111--111
+[]\OT1/cmr/m/n/12 K. Uchida et al. ``High res-o-lu-tion foot-print-ing of EcoRI
+ and dis-tamycin with Rh(phi)2(bpy)3+,
+ []
 
-LaTeX Warning: Citation 'Iverson_3815' on page 89 undefined on input line 44.
-
-
-LaTeX Warning: Citation 'Sambrook_3729' on page 89 undefined on input line 44.
-
-[89])
-
-LaTeX Warning: Empty bibliography on input line 110.
-
+[99]
 
 Class memoir Warning: The material used in the headers is too large
 (28.99998pt) for the given head height (14.5pt), it is recommended to
 either increase the head height or redesign the header
 (in both cases you will find help in the memoir manual). on input line 112.
 
-[90]
+[100]
 \tf@toc=\write5
 \openout5 = `thesis.toc'.
 
 \tf@lof=\write6
 \openout6 = `thesis.lof'.
 
- (./thesis.aux (./abstract.aux) (./acronyms.aux) (./chap1.aux) (./chap2.aux) (.
-/chap3.aux) (./chap4.aux) (./concl.aux))
+ (./thesis.aux (./abstract.aux) (./acronyms.aux) (./chap1.aux)
+(./chap2.aux) (./chap3.aux) (./chap4.aux) (./concl.aux))
 
 LaTeX Warning: There were undefined references.
 
@@ -3166,12 +1637,12 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 10673 strings out of 493489
- 161103 string characters out of 3141349
- 363332 words of memory out of 3000000
- 13804 multiletter control sequences out of 15000+200000
+ 10808 strings out of 493489
+ 163864 string characters out of 3141349
+ 398596 words of memory out of 3000000
+ 13925 multiletter control sequences out of 15000+200000
  12002 words of font info for 42 fonts, out of 3000000 for 9000
  958 hyphenation exceptions out of 8191
- 37i,10n,34p,2302b,1016s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,11n,49p,2300b,1077s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on thesis.dvi (99 pages, 235112 bytes).
+Output written on thesis.dvi (111 pages, 278808 bytes).

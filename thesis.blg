@@ -4,6 +4,11 @@ The top-level auxiliary file: thesis.aux
 The style file: biblatex.bst
 A level-1 auxiliary file: abstract.aux
 A level-1 auxiliary file: acronyms.aux
+A level-1 auxiliary file: chap1.aux
+A level-1 auxiliary file: chap2.aux
+A level-1 auxiliary file: chap3.aux
+A level-1 auxiliary file: chap4.aux
+A level-1 auxiliary file: concl.aux
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
@@ -15,6 +20,7 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated field_info (elt_size=4) to 20640 items from 5000.
 Database file #1: thesis-blx.bib
 Database file #2: Bib_Thesis_label_less3.bib
 I was expecting a `,' or a `)'---line 1157 of file Bib_Thesis_label_less3.bib
@@ -31,48 +37,379 @@ I was expecting a `,' or a `)'---line 1388 of file Bib_Thesis_label_less3.bib
  : }
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "Hall_2011"
 Biblatex version: 1.7
+Name 1 in "DeRosier, D. J., and Klug, A." has a comma at the end for entry DeRosier_1968
+while executing---line 2500 of file biblatex.bst
+Name 1 in "DeRosier, D. J., and Klug, A." has a comma at the end for entry DeRosier_1968
+while executing---line 2500 of file biblatex.bst
+Name 1 in "DeRosier, D. J., and Klug, A." has a comma at the end for entry DeRosier_1968
+while executing---line 2500 of file biblatex.bst
+Name 1 in "DeRosier, D. J., and Klug, A." has a comma at the end for entry DeRosier_1968
+while executing---line 2500 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2500 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2500 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2500 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2500 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2500 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2500 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2500 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2500 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2500 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2500 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2500 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2500 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2500 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2500 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2500 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2500 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2500 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2500 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2500 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2500 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2500 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2500 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2500 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2500 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2500 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2500 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2500 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2500 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2500 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2500 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2500 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2500 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2500 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2500 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2500 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2500 of file biblatex.bst
+Name 1 in "DeRosier, D. J., and Klug, A." has a comma at the end for entry DeRosier_1968
+while executing---line 2504 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2504 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2504 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2504 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2504 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2504 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2504 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2504 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2504 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2504 of file biblatex.bst
+Name 1 in "DeRosier, D. J., and Klug, A." has a comma at the end for entry DeRosier_1968
+while executing---line 2510 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2510 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2510 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2510 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2510 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2510 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2510 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2510 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2510 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2510 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2514 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2514 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2514 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2514 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2514 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2514 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2514 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2514 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2514 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2514 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2514 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2514 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2514 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2514 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2514 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2514 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2514 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2514 of file biblatex.bst
+Name 1 in "DeRosier, D. J., and Klug, A." has a comma at the end for entry DeRosier_1968
+while executing---line 2514 of file biblatex.bst
+Name 1 in "DeRosier, D. J., and Klug, A." has a comma at the end for entry DeRosier_1968
+while executing---line 2514 of file biblatex.bst
+Name 1 in "DeRosier, D. J., and Klug, A." has a comma at the end for entry DeRosier_1968
+while executing---line 2518 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2518 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2518 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2518 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2518 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2518 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2518 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2518 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2518 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2518 of file biblatex.bst
+Name 1 in "DeRosier, D. J., and Klug, A." has a comma at the end for entry DeRosier_1968
+while executing---line 2524 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2524 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2524 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2524 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2524 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2524 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2524 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2524 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2524 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2524 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2528 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2528 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2528 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2528 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2528 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2528 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2528 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2528 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2528 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2528 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2528 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2528 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2528 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2528 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2528 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2528 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2528 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2528 of file biblatex.bst
+Name 1 in "DeRosier, D. J., and Klug, A." has a comma at the end for entry DeRosier_1968
+while executing---line 2528 of file biblatex.bst
+Name 1 in "DeRosier, D. J., and Klug, A." has a comma at the end for entry DeRosier_1968
+while executing---line 2528 of file biblatex.bst
+Name 1 in "DeRosier, D. J., and Klug, A." has a comma at the end for entry DeRosier_1968
+while executing---line 2582 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2582 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2582 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2582 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2582 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2582 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2582 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2582 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2582 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2582 of file biblatex.bst
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
-You've used 1 entry,
+Name 1 in "DeRosier, D. J., and Klug, A." has a comma at the end for entry DeRosier_1968
+while executing---line 2645 of file biblatex.bst
+Name 1 in "DeRosier, D. J., and Klug, A." has a comma at the end for entry DeRosier_1968
+while executing---line 2645 of file biblatex.bst
+Name 1 in "DeRosier, D. J., and Klug, A." has a comma at the end for entry DeRosier_1968
+while executing---line 2645 of file biblatex.bst
+Name 1 in "DeRosier, D. J., and Klug, A." has a comma at the end for entry DeRosier_1968
+while executing---line 2645 of file biblatex.bst
+Name 1 in "DeRosier, D. J., and Klug, A." has a comma at the end for entry DeRosier_1968
+while executing---line 2645 of file biblatex.bst
+Name 1 in "DeRosier, D. J., and Klug, A." has a comma at the end for entry DeRosier_1968
+while executing---line 2645 of file biblatex.bst
+Name 1 in "DeRosier, D. J., and Klug, A." has a comma at the end for entry DeRosier_1968
+while executing---line 2645 of file biblatex.bst
+Name 1 in "DeRosier, D. J., and Klug, A." has a comma at the end for entry DeRosier_1968
+while executing---line 2645 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2645 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2645 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2645 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2645 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2645 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2645 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2645 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2645 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2645 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2645 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2645 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2645 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2645 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2645 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2645 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2645 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2645 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2645 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2645 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2645 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2645 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2645 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2645 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2645 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2645 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2645 of file biblatex.bst
+Too many commas in name 1 of "Sambrook, J., Fritsch, E.F, Maniatis, T." for entry Sambrook_3729
+while executing---line 2645 of file biblatex.bst
+You've used 114 entries,
             6019 wiz_defined-function locations,
-            1123 strings with 8056 characters,
-and the built_in function-call counts, 1306 in all, are:
-= -- 64
-> -- 58
-< -- 1
-+ -- 41
-- -- 24
-* -- 23
-:= -- 295
+            1838 strings with 29598 characters,
+and the built_in function-call counts, 380665 in all, are:
+= -- 12336
+> -- 13653
+< -- 2788
++ -- 4347
+- -- 5649
+* -- 36344
+:= -- 23770
 add.period$ -- 0
-call.type$ -- 1
-change.case$ -- 0
+call.type$ -- 114
+change.case$ -- 1155
 chr.to.int$ -- 34
-cite$ -- 0
-duplicate$ -- 12
-empty$ -- 92
-format.name$ -- 0
-if$ -- 289
+cite$ -- 226
+duplicate$ -- 44376
+empty$ -- 39677
+format.name$ -- 10790
+if$ -- 83526
 int.to.chr$ -- 0
-int.to.str$ -- 0
+int.to.str$ -- 239
 missing$ -- 0
-newline$ -- 22
-num.names$ -- 0
-pop$ -- 44
+newline$ -- 4121
+num.names$ -- 4699
+pop$ -- 36723
 preamble$ -- 1
-purify$ -- 0
+purify$ -- 1728
 quote$ -- 0
-skip$ -- 74
+skip$ -- 20977
 stack$ -- 0
-substring$ -- 117
-swap$ -- 1
-text.length$ -- 16
-text.prefix$ -- 0
+substring$ -- 4199
+swap$ -- 15496
+text.length$ -- 3170
+text.prefix$ -- 113
 top$ -- 1
-type$ -- 26
+type$ -- 4320
 warning$ -- 0
-while$ -- 50
+while$ -- 2087
 width$ -- 0
-write$ -- 20
-(There were 3 error messages)
+write$ -- 4006
+(There were 168 error messages)
