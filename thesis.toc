@@ -1,0 +1,121 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Contents}{ii}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{List of Figures}{iii}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Acronyms}{iv}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {1}Introduction}{1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Metazoan gene regulation requires the coordinated assembly of protein complexes on genomic DNA}{2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}The multi-subunit TFIID complex is essential for regulated transcription initiation}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}The core promoter as a regulatory element}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.4}Electron microscopy studies of TFIID}{8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.5}Research rationale}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {2}Human TFIID binds promoter DNA in a reorganized structural state}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Detailed analysis of TFIID reveals dramatic lobe A flexibility}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Lobe A is flexibily attached to a stable core of TFIID that comprises lobes B and C}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Focused classification \& measurement of lobe A position describes TFIID's conformational landscape}{15}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}TFIIA and SCP DNA modulate the position of lobe A within TFIID}{19}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{The combined presence of TFIIA and SCP DNA stabilize the rearranged state}{19}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Cryo-EM analysis verified the presence of DNA within rearranged state of TFIID}{19}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}Discussion}{21}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {3}Cryo-EM analysis of TFIID-TFIIA-SCP defines the 3D organization of DNA and TFIIA bound to TFIID}{23}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Implementation of OTR to generate model of the rearranged state}{23}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Principles of \emph {ab initio} 3D reconstruction strategies}{23}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{3D reconstruction and refinement of rearranged conformation}{24}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Cryo-EM comparison of canonical and rearranged conformations of TFIID-TFIIA-SCP}{27}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Validation of rearranged conformation using the free-hand test}{31}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Test study on 26S proteasome}{33}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Free-hand test of the rearranged \& canonical conformations}{34}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}Nanogold as a tool to localize ligands bound to TFIID}{35}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Theoretical considerations for imaging Nanogold with vitreous ice}{35}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Covalent and non-covalent labeling of SCP DNA}{35}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Non-covalent labeling of TFIIA}{38}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Strategy for cryo-EM data collection \& analysis}{39}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.5}Defining the stereochemistry of the rearranged TFIID-TFIIA-SCP complex}{39}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Orientation of DNA within TFIID-TFIIA-SCP}{39}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{TFIIA localizes to lobe A in both the canonical and rearranged conformations of TFIID}{43}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Model of promoter DNA path through TFIID-TFIIA-SCP}{43}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {4}Biochemical and structural support for a general model of promoter binding by TFIID}{48}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Detailed footprinting of TFIID-TFIIA-SCP}{50}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}TFIID interacts with diverse promoter architectures through the rearranged conformation}{53}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}DNA binding within the canonical conformation}{56}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}TFIID-TFIIA-TFIIB-SCP adopts the rearranged conformation on promoter DNA}{60}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.5}A general model of regulated DNA binding by TFIID}{66}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{TFIID-TFIIA-SCP}{66}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{TFIID-TFIIA-SCP(mTATA)}{69}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{TFIID-TFIIA-SCP(mMTE/DPE)}{71}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Implications for RNAPII loading at the core promoter}{71}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {5}Conclusions and future outlook}{75}
+\defcounter {refsection}{0}\relax 
+\contentsline {appendix}{\chapternumberline {A}Re-analysis of activator-TFIID complexes}{76}
+\defcounter {refsection}{0}\relax 
+\contentsline {appendix}{\chapternumberline {B}Antibody labeling of TFIID}{77}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B.1}Purification of a ternary TFIID-$\alpha $-TAF6 complex}{77}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B.2}$\alpha $-TAF6 antibody localization}{79}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B.3}Comparison of antibody labeling between yeast and human TFIID}{79}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B.4}Implications of a pseudo-symmetric BC core}{82}
+\defcounter {refsection}{0}\relax 
+\contentsline {appendix}{\chapternumberline {C}Materials \& Methods}{84}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {C.1}Protein preparation}{84}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {C.2}Nucleic acid preparation}{85}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {C.3}EM sample preparation}{86}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {C.4}Single particle image analysis}{86}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Orthogonal tilt reconstruction of TFIID-IIA-SCP}{87}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Focused classification of lobe A}{88}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Cryo-EM of Nanogold complexes \& image analysis}{88}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {C.5}DNase I and MPE-Fe footprinting}{89}
