@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=latex 2012.6.30)  23 OCT 2012 12:50
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=latex 2012.6.30)  23 OCT 2012 14:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -839,11 +839,11 @@ Missing character: There is no ì in font cmr12!
 [5]
 \openout2 = `acronyms.aux'.
 
- (./acronyms.tex) [6
+ (./acronyms.tex [6
 
 
 
-] [7
+]) [7] [8
 
 ]
 \openout2 = `chap1.aux'.
@@ -852,9 +852,6 @@ Missing character: There is no ì in font cmr12!
 
 
 ]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ò in font cmr12!
@@ -873,29 +870,22 @@ File: ../Ch1_figs/Fig1.3.eps Graphic file (type eps)
  <../Ch1_figs/Fig1.3.eps>
 File: ../Ch1_figs/Fig1.4.eps Graphic file (type eps)
  <../Ch1_figs/Fig1.4.eps>
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-
 [2] [3] [4] [5] [6] [7]
 File: ../Ch1_figs/Enhancers4.eps Graphic file (type eps)
- <../Ch1_figs/Enhancers4.eps> [8] [9]
-Missing character: There is no √ in font cmr12!
-Missing character: There is no Ö in font cmr12!
+ <../Ch1_figs/Enhancers4.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 47--56
+
+ []
+
+[8] [9]
 File: ../Ch1_figs/TFIID_compare.eps Graphic file (type eps)
+ <../Ch1_figs/TFIID_compare.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 59--70
 
-<../Ch1_figs/TFIID_compare.eps> [10] [11]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
+ []
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--79
+[10] [11]
+Underfull \hbox (badness 10000) in paragraph at lines 73--75
 
  []
 
@@ -1526,7 +1516,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--12
 
 ]
 Overfull \hbox (2.65094pt too wide) in paragraph at lines 15--17
-\OT1/cmr/m/n/12 quence of SCP1 [40]: GTACT-TATATAAGGGGGTGGGGGCGCGTTCGTC-CTCAGTC
+\OT1/cmr/m/n/12 quence of SCP1 [39]: GTACT-TATATAAGGGGGTGGGGGCGCGTTCGTC-CTCAGTC
 GC-
  []
 
@@ -1637,12 +1627,12 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 10808 strings out of 493489
- 163864 string characters out of 3141349
- 398598 words of memory out of 3000000
- 13925 multiletter control sequences out of 15000+200000
+ 10812 strings out of 493489
+ 163855 string characters out of 3141349
+ 397743 words of memory out of 3000000
+ 13929 multiletter control sequences out of 15000+200000
  12002 words of font info for 42 fonts, out of 3000000 for 9000
  958 hyphenation exceptions out of 8191
  37i,11n,49p,2300b,1077s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on thesis.dvi (111 pages, 278808 bytes).
+Output written on thesis.dvi (112 pages, 278400 bytes).
