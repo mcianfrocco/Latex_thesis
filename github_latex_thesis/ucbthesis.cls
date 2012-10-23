@@ -1,1 +1,0 @@
-../ucbthesis.cls
