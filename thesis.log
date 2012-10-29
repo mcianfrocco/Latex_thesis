@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=latex 2012.6.30)  28 OCT 2012 20:44
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=latex 2012.6.30)  28 OCT 2012 20:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1538,14 +1538,49 @@ Type  H <return>  for immediate help.
                                                   
 l.100 
       
-? X
- 
+? 
+[97]
+Overfull \hbox (1.7451pt too wide) in paragraph at lines 100--100
+\OT1/cmr/m/n/12 pro-moter and the basal tran-scrip-tional ma-chin-ery''. In: \O
+T1/cmr/m/it/12 Dev Biol \OT1/cmr/m/n/12 339.2 (2010), pp. 225{
+ []
+
+[98] [99] [100] [101]
+Overfull \hbox (41.31955pt too wide) in paragraph at lines 100--100
+[]\OT1/cmr/m/n/12 K. Uchida et al. ``High res-o-lu-tion foot-print-ing of EcoRI
+ and dis-tamycin with Rh(phi)2(bpy)3+,
+ []
+
+[102]
+
+Class memoir Warning: The material used in the headers is too large
+(28.99998pt) for the given head height (14.5pt), it is recommended to
+either increase the head height or redesign the header
+(in both cases you will find help in the memoir manual). on input line 101.
+
+[103]
+\tf@toc=\write5
+\openout5 = `thesis.toc'.
+
+\tf@lof=\write6
+\openout6 = `thesis.lof'.
+
+ (./thesis.aux (./abstract.aux) (./acronyms.aux) (./chap1.aux)
+(./chap2.aux) (./chap3.aux) (./chap4.aux) (./concl.aux))
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package logreq Info: Writing requests to 'thesis.run.xml'.
+\openout1 = `thesis.run.xml'.
+
+ ) 
 Here is how much of TeX's memory you used:
- 10758 strings out of 493489
- 163376 string characters out of 3141349
+ 10825 strings out of 493489
+ 164018 string characters out of 3141349
  398299 words of memory out of 3000000
- 13891 multiletter control sequences out of 15000+200000
+ 13941 multiletter control sequences out of 15000+200000
  12361 words of font info for 43 fonts, out of 3000000 for 9000
  958 hyphenation exceptions out of 8191
  37i,11n,49p,2271b,1077s stack positions out of 5000i,500n,10000p,200000b,50000s
-Output written on thesis.dvi (110 pages, 271788 bytes).
+
+Output written on thesis.dvi (117 pages, 296676 bytes).
