@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=latex 2012.6.30)  23 OCT 2012 14:34
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=latex 2012.6.30)  28 OCT 2012 20:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -813,39 +813,31 @@ l page on input line 54.
 \openout2 = `abstract.aux'.
 
  (./abstract.tex
-Missing character: There is no √ in font cmr12!
-Missing character: There is no Ö in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
  [1
 
-]) [1
+] [2]) [1
 
 ] (./thesis.toc [2]) [3] (./thesis.lof
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
- [4
+[4
 
-]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ì in font cmr12!
-)
-[5]
+]) [5]
 \openout2 = `acronyms.aux'.
 
  (./acronyms.tex [6
 
 
 
-]) [7] [8
+]) [7]
+Underfull \hbox (badness 10000) in paragraph at lines 76--81
 
-]
+ []
+
+[8
+
+] [9]
 \openout2 = `chap1.aux'.
 
  (./chap1.tex [1
@@ -860,36 +852,33 @@ Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
 File: ../Ch1_figs/Fig1.1.eps Graphic file (type eps)
  <../Ch1_figs/Fig1.1.eps>
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
 File: ../Ch1_figs/Fig1.5b.eps Graphic file (type eps)
-
-<../Ch1_figs/Fig1.5b.eps>
+ <../Ch1_figs/Fig1.5b.eps>
 File: ../Ch1_figs/Fig1.3.eps Graphic file (type eps)
- <../Ch1_figs/Fig1.3.eps>
+
+<../Ch1_figs/Fig1.3.eps>
 File: ../Ch1_figs/Fig1.4.eps Graphic file (type eps)
- <../Ch1_figs/Fig1.4.eps>
-[2] [3] [4] [5] [6] [7]
+ <../Ch1_figs/Fig1.4.eps> [2] [3] [4] [5] [6] [7]
 File: ../Ch1_figs/Enhancers4.eps Graphic file (type eps)
- <../Ch1_figs/Enhancers4.eps>
+
+<../Ch1_figs/Enhancers4.eps>
 Underfull \hbox (badness 10000) in paragraph at lines 47--56
 
  []
 
-[8] [9]
+[8]
 File: ../Ch1_figs/TFIID_compare.eps Graphic file (type eps)
  <../Ch1_figs/TFIID_compare.eps>
 Underfull \hbox (badness 10000) in paragraph at lines 59--70
 
  []
 
-[10] [11]
+[9] [10]
 Underfull \hbox (badness 10000) in paragraph at lines 73--75
 
  []
 
-[12]) [13]
+[11]) [12]
 \openout2 = `chap2.aux'.
 
  (./chap2.tex
@@ -900,12 +889,6 @@ File: ../Ch2_figs/Fig2.2.eps Graphic file (type eps)
 File: ../Ch2_figs/Fig2.3.eps Graphic file (type eps)
 
 <../Ch2_figs/Fig2.3.eps>
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
 File: ../Ch2_figs/Fig2.4.eps Graphic file (type eps)
  <../Ch2_figs/Fig2.4.eps>
 Missing character: There is no ‚ in font cmr12!
@@ -938,7 +921,7 @@ Missing character: There is no ò in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
- [14
+ [13
 
 
 
@@ -953,17 +936,11 @@ either increase the head height or redesign the header
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[15]
+[14]
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[16]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
+[15]
 File: ../Ch2_figs/Fig2.5.eps Graphic file (type eps)
  <../Ch2_figs/Fig2.5.eps>
 Missing character: There is no ‚ in font cmr12!
@@ -974,13 +951,10 @@ Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
 File: ../Ch2_figs/Fig2.6.eps Graphic file (type eps)
  <../Ch2_figs/Fig2.6.eps>
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
+
+[16]
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
@@ -993,10 +967,6 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [19]
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[20]
 Underfull \hbox (badness 10000) in paragraph at lines 50--52
 
  []
@@ -1005,11 +975,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 50--52
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[21]
+[20]
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[22]
+[21]
 File: ../Ch2_figs/Fig2.7.eps Graphic file (type eps)
  <../Ch2_figs/Fig2.7.eps>
 LaTeX Font Info:    Try loading font information for OML+cmr on input line 64.
@@ -1020,7 +990,7 @@ File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 64.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 57--101
+Underfull \hbox (badness 10000) in paragraph at lines 57--90
 
  []
 
@@ -1028,11 +998,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--101
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[23]
+[22]
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[24]
+[23]
 \openout2 = `chap3.aux'.
 
  (./chap3.tex
@@ -1042,24 +1012,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--17
 
  []
 
-[25
+[24
 
 
 
 ]
 File: ../Ch3_figs/Fig3.2.eps Graphic file (type eps)
  <../Ch3_figs/Fig3.2.eps>
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ò in font cmr12!
 File: ../Ch3_figs/Fig3.3.eps Graphic file (type eps)
  <../Ch3_figs/Fig3.3.eps>
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ì in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ì in font cmr12!
 File: ../Ch3_figs/Fig3.4.eps Graphic file (type eps)
 
 <../Ch3_figs/Fig3.4.eps>
@@ -1070,15 +1031,15 @@ LaTeX Warning: Float too large for page by 1.9021pt on input line 38.
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
+[25]
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
 [26]
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [27]
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[28]
 File: ../Ch3_figs/Fig3.5.eps Graphic file (type eps)
  <../Ch3_figs/Fig3.5.eps>
 Underfull \hbox (badness 10000) in paragraph at lines 42--51
@@ -1086,6 +1047,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--51
  []
 
 
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[28]
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
@@ -1098,10 +1063,6 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [31]
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[32]
 File: ../Ch3_figs/Fig3.6.eps Graphic file (type eps)
  <../Ch3_figs/Fig3.6.eps>
 Missing character: There is no ¬ in font cmr12!
@@ -1117,30 +1078,32 @@ File: ../Ch3_figs/Fig3.7.eps Graphic file (type eps)
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[33]
+[32]
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[34]
+[33]
 File: ../Ch3_figs/Fig3.8.eps Graphic file (type eps)
  <../Ch3_figs/Fig3.8.eps>
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
+[34]
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
 [35]
+File: ../Ch3_figs/Fig3.9.eps Graphic file (type eps)
+ <../Ch3_figs/Fig3.9.eps>
+File: ../Ch3_figs/Fig3.12.eps Graphic file (type eps)
+ <../Ch3_figs/Fig3.12.eps>
+File: ../Ch3_figs/Fig3.13.eps Graphic file (type eps)
+
+<../Ch3_figs/Fig3.13.eps>
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [36]
-File: ../Ch3_figs/Fig3.12.eps Graphic file (type eps)
- <../Ch3_figs/Fig3.12.eps>
-File: ../Ch3_figs/Fig3.13.eps Graphic file (type eps)
- <../Ch3_figs/Fig3.13.eps>
-Underfull \hbox (badness 10000) in paragraph at lines 98--106
-
- []
-
-
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
@@ -1149,23 +1112,17 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [38]
+File: ../Ch3_figs/Fig3.14.eps Graphic file (type eps)
+ <../Ch3_figs/Fig3.14.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+
+ []
+
+
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [39]
-File: ../Ch3_figs/Fig3.14.eps Graphic file (type eps)
- <../Ch3_figs/Fig3.14.eps>
-Underfull \hbox (badness 10000) in paragraph at lines 114--115
-
- []
-
-File: ../Ch3_figs/Fig3.15.eps Graphic file (type eps)
-<../Ch3_figs/Fig3.15.eps>
-Underfull \hbox (badness 10000) in paragraph at lines 123--124
-
- []
-
-
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
@@ -1174,14 +1131,20 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [41]
+File: ../Ch3_figs/Fig3.15.eps Graphic file (type eps)
+ <../Ch3_figs/Fig3.15.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
+
+ []
+
+File: ../Ch3_figs/Fig3.17.eps Graphic file (type eps)
+<../Ch3_figs/Fig3.17.eps>
+File: ../Ch3_figs/Fig3.16.eps Graphic file (type eps)
+ <../Ch3_figs/Fig3.16.eps>
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [42]
-File: ../Ch3_figs/Fig3.17.eps Graphic file (type eps)
- <../Ch3_figs/Fig3.17.eps>
-File: ../Ch3_figs/Fig3.16.eps Graphic file (type eps)
- <../Ch3_figs/Fig3.16.eps>
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
@@ -1198,11 +1161,7 @@ File: ../Ch3_figs/Fig3.18.eps Graphic file (type eps)
  <../Ch3_figs/Fig3.18.eps>
 File: ../Ch3_figs/Fig3.19.eps Graphic file (type eps)
  <../Ch3_figs/Fig3.19.eps>
-
-LaTeX Warning: Citation 'Hall_2011' on page 46 undefined on input line 167.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 154--168
+Underfull \hbox (badness 10000) in paragraph at lines 159--179
 
  []
 
@@ -1218,11 +1177,11 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[48]
+[48])
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[49])
+[49]
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
@@ -1230,14 +1189,23 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 \openout2 = `chap4.aux'.
 
  (./chap4.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
+
+ []
+
 File: ../Ch4_figs/Fig4.1.eps Graphic file (type eps)
- <../Ch4_figs/Fig4.1.eps>
+<../Ch4_figs/Fig4.1.eps>
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ì in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ì in font cmr12!
+ [51
+
+
+
+]
 File: ../Ch4_figs/Fig4.2.eps Graphic file (type eps)
  <../Ch4_figs/Fig4.2.eps>
 Missing character: There is no ‚ in font cmr12!
@@ -1272,11 +1240,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--31
 
  []
 
-[51
 
-
-
-]
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
@@ -1295,50 +1259,8 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 [55]
 File: ../Ch4_figs/Fig4.7.eps Graphic file (type eps)
  <../Ch4_figs/Fig4.7.eps>
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ò in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ò in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ò in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ò in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
 File: ../Ch4_figs/Fig4.8.eps Graphic file (type eps)
  <../Ch4_figs/Fig4.8.eps>
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ò in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ò in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ò in font cmr12!
@@ -1348,6 +1270,12 @@ Missing character: There is no ô in font cmr12!
 File: ../Ch4_figs/Fig4.6.eps Graphic file (type eps)
 
 <../Ch4_figs/Fig4.6.eps>
+Overfull \hbox (7.18137pt too wide) in paragraph at lines 45--54
+ []\OT1/cmr/m/n/12 With the 'wild-type' SCP as well as with the three 'mu-tant'
+ (mTATA, mInr, mMTE/DPE)
+ []
+
+
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
@@ -1409,6 +1337,16 @@ File: ../Ch4_figs/Fig4.13.eps Graphic file (type eps)
 LaTeX Warning: Float too large for page by 2.24953pt on input line 108.
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--119
+
+ []
+
+
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
@@ -1417,16 +1355,6 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [68]
-Underfull \hbox (badness 10000) in paragraph at lines 110--111
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 114--118
-
- []
-
-
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
@@ -1437,35 +1365,36 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 [70]
 File: ../Ch4_figs/Fig4.14.eps Graphic file (type eps)
  <../Ch4_figs/Fig4.14.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 129--132
+
+ []
+
+
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [71]
-Underfull \hbox (badness 10000) in paragraph at lines 128--131
-
- []
-
-
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [72]
+File: ../Ch4_figs/Fig4.15.eps Graphic file (type eps)
+ <../Ch4_figs/Fig4.15.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 142--144
+
+ []
+
+
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [73]
-File: ../Ch4_figs/Fig4.15.eps Graphic file (type eps)
- <../Ch4_figs/Fig4.15.eps>
-Underfull \hbox (badness 10000) in paragraph at lines 141--143
-
- []
-
-File: ../Ch4_figs/BentDNA_mdoels.eps Graphic file (type eps)
-<../Ch4_figs/BentDNA_mdoels.eps>)
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [74]
+File: ../Ch4_figs/BentDNA_mdoels.eps Graphic file (type eps)
+ <../Ch4_figs/BentDNA_mdoels.eps>)
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
@@ -1474,25 +1403,41 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [76]
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[77]
 \openout2 = `concl.aux'.
 
- (./concl.tex) [78
+ (./concl.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--11
+
+ []
+
+[77
 
 
 
-] (./activators.tex) (./taf6.tex [79
+]
+Underfull \hbox (badness 10000) in paragraph at lines 14--18
+
+ []
+
+[78])
+Underfull \hbox (badness 10000) in paragraph at lines 21--93
+
+ []
+
+[79] [80] (./activators.tex) (./taf6.tex [81
 
 
 ]
 File: ../Ch4_figs/Purification.eps Graphic file (type eps)
+ <../Ch4_figs/Purification.eps>
+[82
 
-<../Ch4_figs/Purification.eps> [80
-
-] [81]
+] [83]
 File: ../Ch4_figs/TAF6.eps Graphic file (type eps)
  <../Ch4_figs/TAF6.eps>
 
@@ -1503,7 +1448,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 37--43
 
  []
 
-[82] [83] [84]) (./methods.tex [85] [86]
+[84] [85] [86]) (./methods.tex [87] [88]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ì in font cmr12!
@@ -1512,11 +1457,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--12
 
  []
 
-[87
+[89
 
 ]
 Overfull \hbox (2.65094pt too wide) in paragraph at lines 15--17
-\OT1/cmr/m/n/12 quence of SCP1 [39]: GTACT-TATATAAGGGGGTGGGGGCGCGTTCGTC-CTCAGTC
+\OT1/cmr/m/n/12 quence of SCP1 [40]: GTACT-TATATAAGGGGGTGGGGGCGCGTTCGTC-CTCAGTC
 GC-
  []
 
@@ -1531,12 +1476,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--17
 
  []
 
-[88]
+[90]
 Underfull \hbox (badness 10000) in paragraph at lines 25--28
 
  []
 
-[89]
+[91]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ò in font cmr12!
@@ -1562,7 +1507,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 35--37
 
  []
 
-[90]
+[92]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ò in font cmr12!
@@ -1576,63 +1521,31 @@ Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
 
-Overfull \hbox (8.65405pt too wide) in paragraph at lines 40--41
-\OT1/cmr/m/n/12 par-ti-cles), TFIID-IIA-SCP(Nanogold @ TATA) (851 par-ti-cles),
- and TFIID-IIA-SCP(Nanogold
+Overfull \hbox (9.9596pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/12 par-ti-cles), TFIID-IIA-SCP(Nanogold at TATA) (851 par-ti-cles)
+, and TFIID-IIA-SCP(Nanogold
  []
 
-[91]) [92] [93
+[93] [94]) [95] [96
 
-] [94]
-Overfull \hbox (1.7451pt too wide) in paragraph at lines 111--111
-\OT1/cmr/m/n/12 pro-moter and the basal tran-scrip-tional ma-chin-ery''. In: \O
-T1/cmr/m/it/12 Dev Biol \OT1/cmr/m/n/12 339.2 (2010), pp. 225{
- []
+]
 
-[95] [96] [97] [98]
-Overfull \hbox (41.31955pt too wide) in paragraph at lines 111--111
-[]\OT1/cmr/m/n/12 K. Uchida et al. ``High res-o-lu-tion foot-print-ing of EcoRI
- and dis-tamycin with Rh(phi)2(bpy)3+,
- []
+! Class memoir Error: Font command \it is not supported.
 
-[99]
-
-Class memoir Warning: The material used in the headers is too large
-(28.99998pt) for the given head height (14.5pt), it is recommended to
-either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 112.
-
-[100]
-\tf@toc=\write5
-\openout5 = `thesis.toc'.
-
-\tf@lof=\write6
-\openout6 = `thesis.lof'.
-
- (./thesis.aux (./abstract.aux) (./acronyms.aux) (./chap1.aux)
-(./chap2.aux) (./chap3.aux) (./chap4.aux) (./concl.aux))
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package biblatex Warning: Please (re)run BibTeX on the file(s):
-(biblatex)                thesis
-(biblatex)                and rerun LaTeX afterwards.
-
-Package logreq Info: Writing requests to 'thesis.run.xml'.
-\openout1 = `thesis.run.xml'.
-
- ) 
+See the memoir class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.100 
+      
+? X
+ 
 Here is how much of TeX's memory you used:
- 10812 strings out of 493489
- 163855 string characters out of 3141349
- 397743 words of memory out of 3000000
- 13929 multiletter control sequences out of 15000+200000
- 12002 words of font info for 42 fonts, out of 3000000 for 9000
+ 10758 strings out of 493489
+ 163376 string characters out of 3141349
+ 398299 words of memory out of 3000000
+ 13891 multiletter control sequences out of 15000+200000
+ 12361 words of font info for 43 fonts, out of 3000000 for 9000
  958 hyphenation exceptions out of 8191
- 37i,11n,49p,2300b,1077s stack positions out of 5000i,500n,10000p,200000b,50000s
-
-Output written on thesis.dvi (112 pages, 278400 bytes).
+ 37i,11n,49p,2271b,1077s stack positions out of 5000i,500n,10000p,200000b,50000s
+Output written on thesis.dvi (110 pages, 271788 bytes).
