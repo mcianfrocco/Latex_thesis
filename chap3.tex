@@ -89,13 +89,19 @@ The free-hand test verified the accuracy of the 3D rearranged model from TFIID-T
 \begin{figure}
 \centering
 \includegraphics[width=0.65\textwidth]{../Ch3_figs/Fig3.9.eps}
-\caption[Determination of optimal defocus for 1.4-nm Nanogold]{Determination of optimal defocus for 1.4-nm Nanogold. 2D Gaussians were fit to the simulated images of a 70 atom gold nanocluster embedded in water. (A) Intensity of a 70-atom gold nanocluster (blue) is plotted against a range of defocal values. The standard deviation of the gold nanocluster intensity is shown in grey. For comparison, the intensity of protein (PDB 1PPI) is shown (red). (B) Distance between peaks found in simulated gold images and the actual position of the gold nanocluster. Standard deviation of localization is shown in grey.}
+\caption[Determination of optimal defocus for 1.4-nm Nanogold]{Determination of optimal defocus for 1.4-nm Nanogold. 2D Gaussians were fit to the simulated images of a 70 atom gold nanocluster embedded in water (A). For the peak finding shown here, noise was added to the simulated images to model accurately cryo-EM image characteristics (B). (C) Intensity of a 70-atom gold nanocluster (blue) is plotted against a range of defocal values. The standard deviation of the gold nanocluster intensity is shown in grey. For comparison, the intensity of protein (PDB 1PPI) is shown (red). (D) Distance between peaks found in simulated gold images and the actual position of the gold nanocluster. Standard deviation of localization is shown in grey.}
 \label{fig:Gold}
 \end{figure} 
 
 Gold nanoclusters have been an important tool for EM image analysis for the past 20 years \cite{Hainfeld_2000}. From immunolocalization in cell sectioning experiments to labeled-ligands within single particle cryo-EM, the high contrast of gold relative to protein and nucleic acids makes it an ideal labeling reagent. There appears to be a wide-spread acknowledgement that gold nanoclusters display increased contrast at low defocus values compared to the high defocal values needed to image proteins in vitreous ice. However, while anecdotal evidence indicates that 0.5 - 1.0 $\mu$m is sufficient for imaging gold nanoclusters, there has not be a rigorous theoretical and experimental validation of 'best use' practices with single particles labeled with Nanogold. Therefore, we performed image simulations of gold nanoclusters to investigate the effect of different microscope parameters on Nanogold image acquisition and analysis.\\
 \indent To provide a theoretical assessment of the intensity of Nanogold as a functional defocus within the EM, we performed multislice image simulations of gold nanoclusters embedded in water \cite{Goodman,Hall_2011,Kirkland}. This approach takes advantage of the multislice approximation of image formation in the EM \cite{Goodman}, where the transmission of the incident wave is propagated through a series of thin specimen 'slices' using Fresnel propagation. Multislice imaging of biological macromolecules has been used successfully on previous projects within the lab \cite{Hall_2011}, allowing existing computer programs to be manipulated in order to study gold nanoclusters. \\
-
+\begin{figure}
+\centering
+\includegraphics[width=0.65\textwidth]{../Ch3_figs/Fig3.10.eps}
+\caption[Fresnel fringe-induced amplification of gold nanocluster intensity]{Fresnel fringe-induced amplification of gold nanocluster intensity. (A) Cross-sections through simulated gold images from Figure~\ref{fig:Gold}A at 0, 0.15, 0.45 and 1.5 $\mu$ defocus. (B) Line traces from CTF-applied to a top hat function with a 9 pixel diameter. (C) Line traces from CTF-applied to a step function ('edge') centered on the edge of the gold nanocluster. Plots are shown alongside 0.45 $\mu$m gold line trace from (A).}
+\label{fig:Traces}
+\end{figure}
+ 
 -Fringe interference is what gives us constrast of nanogold
 
 -CTF amplification of the nanogold intensity at a specific defocus that is NOT the optimal defocus for a given particle diameter.
