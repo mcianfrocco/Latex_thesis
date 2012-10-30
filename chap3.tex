@@ -84,20 +84,33 @@ After validating the implementation of the free-hand test on the 26S proteasome,
 
 The free-hand test verified the accuracy of the 3D rearranged model from TFIID-TFIIA-SCP, allowing further experiments to be performed in order to define the stereochemistry of this ternary complex. In order to visualize the DNA within the rearranged state for labeling, all structural experiments were performed on plunge frozen samples of TFIID-TFIIA-SCP. Due to the low SNR of cryo-EM images, traditional protein-based tags (e.g. antibody, streptavidin, or MBP) may be difficult to localize accurately. Therefore, in order to overcome this problem, a Nanogold-based tagging strategy was developed to label the SCP DNA and TFIIA within TFIID-TFIIA-SCP.
  
-\subsection{Theoretical considerations for imaging Nanogold with vitreous ice}
+\subsection{Theoretical considerations for imaging Nanogold within vitreous ice}
 
 \begin{figure}
 \centering
-\includegraphics[width=0.6\textwidth]{../Ch3_figs/Fig3.9.eps}
-\caption[Determination of optimal defocus for 1.4-nm Nanogold]{Determination of optimal defocus for 1.4-nm Nanogold.}
+\includegraphics[width=0.65\textwidth]{../Ch3_figs/Fig3.9.eps}
+\caption[Determination of optimal defocus for 1.4-nm Nanogold]{Determination of optimal defocus for 1.4-nm Nanogold. 2D Gaussians were fit to the simulated images of a 70 atom gold nanocluster embedded in water. (A) Intensity of a 70-atom gold nanocluster (blue) is plotted against a range of defocal values. The standard deviation of the gold nanocluster intensity is shown in grey. For comparison, the intensity of protein (PDB 1PPI) is shown (red). (B) Distance between peaks found in simulated gold images and the actual position of the gold nanocluster. Standard deviation of localization is shown in grey.}
 \label{fig:Gold}
 \end{figure} 
 
-Gold nanoclusters have been an important tool for EM image analysis for the past 20 years \cite{Hainfeld_2000}. Through immunolocalization in cell sectioning experiments to ligands within single particle cryo-EM, the high contrast of gold relative to protein and nucleic acids makes it an ideal labeling reagent. Through its widespread use in single particle EM, there is the acknowledgement that the gold nanocluster has more constrast at lower defocal values, compared to the high defocal values needed to image proteins in vitreous ice. However, while anecdotal evidence indicates that 0.5 - 1.0 $\mu$m is sufficient for imaging gold nanoclusters, there has not be a rigorous theoretical and experimental validation of 'best use' practices with single particles labeled with Nanogold.\\
-\indent Computing software \cite{Kirkland}
-Multislice method \cite{Goodman}
+Gold nanoclusters have been an important tool for EM image analysis for the past 20 years \cite{Hainfeld_2000}. From immunolocalization in cell sectioning experiments to labeled-ligands within single particle cryo-EM, the high contrast of gold relative to protein and nucleic acids makes it an ideal labeling reagent. There appears to be a wide-spread acknowledgement that gold nanoclusters display increased contrast at low defocus values compared to the high defocal values needed to image proteins in vitreous ice. However, while anecdotal evidence indicates that 0.5 - 1.0 $\mu$m is sufficient for imaging gold nanoclusters, there has not be a rigorous theoretical and experimental validation of 'best use' practices with single particles labeled with Nanogold. Therefore, we performed image simulations of gold nanoclusters to investigate the effect of different microscope parameters on Nanogold image acquisition and analysis.\\
+\indent To provide a theoretical assessment of the intensity of Nanogold as a functional defocus within the EM, we performed multislice image simulations of gold nanoclusters embedded in water \cite{Goodman,Hall_2011,Kirkland}. This approach takes advantage of the multislice approximation of image formation in the EM \cite{Goodman}, where the transmission of the incident wave is propagated through a series of thin specimen 'slices' using Fresnel propagation. Multislice imaging of biological macromolecules has been used successfully on previous projects within the lab \cite{Hall_2011}, allowing existing computer programs to be manipulated in order to study gold nanoclusters. \\
 
-Simulating single-particle cryo-EM imaging allows us to investigate the effect of different parameters in Nanogold image acquisition and analysis.
+-Fringe interference is what gives us constrast of nanogold
+
+-CTF amplification of the nanogold intensity at a specific defocus that is NOT the optimal defocus for a given particle diameter.
+
+-gold is not a weak phase object--> much higher amplitude changes in electrons, higher scattering angles. this is shown by the results from a gigantic aperture = you lose the contrast of the gold!
+
+-Gold nanocluster is like a top hat function, where the ctf amplifies the intensity of the gold. this shows that the small gold cluster does not get amplification due to its small size, and without this amplification, we don't see the undecagold.
+
+--> to test this, remove object apeture: is the top hat like function a result of highly scattered electrons? yes: without aperture there is no signal from the gold!
+
+we can reproduce these same results with a 'top hat' like function: simulated circle (0) amongst 1's of background
+--> we see exact some pattern of intensity amplification
+-when fringes of defocus are ~= to size of high amplitude scattering object with objective aperture inserted, there will be a constructive interference to amplify the intensity of the gold
+
+\indent 
 
 \subsection{Covalent and non-covalent labeling of SCP DNA}
 \begin{figure}
