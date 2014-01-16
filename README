@@ -1,1 +1,11 @@
-This is my thesis! Yay!
+UC Berkeley PhD Thesis written in LaTex
+=====
+
+The master file is 'thesis.tex', which is the main file compiled by latex and where I have included different chapters, methods, etc.
+
+The UC Berkeley thesis 'class' can be found as 'ucbthesis.cls'.
+
+To compile: ./doit.sh
+
+And the file product is here: 
+http://www.escholarship.org/uc/item/3w56s5fp
